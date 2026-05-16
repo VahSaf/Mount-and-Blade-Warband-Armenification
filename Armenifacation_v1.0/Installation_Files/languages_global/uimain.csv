@@ -1,0 +1,108 @@
+﻿ui_texture_detail|Մանրամասնութիւնք կերպասի:
+ui_max_frame_rate|Առաւելագոյն չափ շրջանակաց:
+ui_enable_bumpmap|Միացանել զուռուցիկութիւն
+ui_disable_blood|Խափանել զարիւն
+ui_disable_music|Խափանել զերաժշտութիւն
+ui_disable_sound|Խափանել զձայն
+ui_enable_cheats|Միացանել զխարդախութիւնս
+ui_enable_edit_mode|Միացանել զխմբագրման եղանակ
+ui_enable_pixel_shaders|Գործածել զստուերարկիչս
+ui_enable_sound_variation|Միացանել զբազմազանութիւն ձայնից
+ui_enable_vertex_shaders|Գործածել զգագաթնային ստուերարկիչս
+ui_shadow_quality|Որակ ստուերաց:
+ui_directx_7|DirectX 7
+ui_directx_9|DirectX 9
+ui_show_framerate|Ցուցանել զչափ շրջանակաց
+ui_start_windowed|Սկսանել պատուհանաւ
+ui_trialmode_caption|Փորձնական եղանակ
+ui_trialmode|Արդ կարասցես աշխուժացուցանել զխաղն քո:
+ui_launch_buy|Գնել լիցենզիա
+ui_launch_faq|Յաճախակի տրուած հարցումք
+ui_trialmode2|Առ ի աշխուժացուցանել զխաղն...
+ui_trialmode3|Կամ կարասցես...
+ui_trialmode4|Եթէ ունիցիս հարցումս...
+ui_serial_key_caption|Գաղտնաբառ
+ui_notification_serial_input|Մուծանեա զգաղտնաբառդ աստ:
+ui_notification_serial_input_vc|Այս մոդուլ պահանջէ զսերիական թիւ Viking Conquest վասն ընթանալոյ: Գրեցէ՛ք զսերիական թիւ Viking Conquest ձեր ի ստորեւ (կարես զնա պատճենել եւ զօդել) եւ սեղմեա՛ զկոճակն Ակտիւացման:
+ui_activate|Ակտիւացնել
+ui_paste|Փակցնել
+ui_notification_serial_internet_connection|Ակտիւացումն պահանջէ զկապ համացանցի!
+ui_notification_serial_offline|Եթէ այս համակարգիչ ոչ ունի զկապ համացանցի, կարող էք փորձել զայս:
+ui_manual_activation|Ձեռամբ ակտիւացումն
+ui_offline_activation|Արտացանց ակտիւացումն
+ui_manual_activation_caption|Ձեռամբ ակտիւացումն
+ui_offline_activation_caption|Արտացանց ակտիւացումն
+ui_cancel2|Չեղարկել
+ui_close|Փակել
+ui_ok2|Բարւոք է
+ui_activation_successful|Խաղն ակտիւացաւ յաջողութեամբ:
+ui_activation_successful2|Պահեցէ՛ք զսերիական թիւ ձեր յապահով տեղւոջ:
+ui_activation_denied|Ակտիւացումն ձախողեցաւ!
+ui_notification_serial_already_used|Սերիական թիւն արդէն գործածեալ է յայլմէ համակարգչէ:
+ui_notification_unable_to_connect_to_activation_server|Ոչ կարեմ միանալ առ սերվերն ակտիւացման!
+ui_notification_unable_to_connect_to_activation_server2|Ստուգեցէ՛ք զկապ համացանցի եւ փորձեցէ՛ք վերստին:
+ui_incorrect_serial_number|Սխալ սերիական թիւ!
+ui_incorrect_hardware_hash|Սխալ կոդ սարքաւորման!
+ui_incorrect_activation_code|Սխալ կոդ ակտիւացման!
+ui_cant_write_to_registry|Ոչ կարեմ գրել ի ռեգիստր!
+ui_video|Պատկեր
+ui_audio|Ձայն
+ui_game|Խաղ
+ui_advanced|Յաւելեալ
+ui_mount_and_blade_is_ready|Mount&Blade Warband պատրաստ է:
+ui_notification_trial_mode|Mount&Blade Warband խաղայ փորձնական կերպիւ: Մինչեւ 6-րդ աստիճան:
+ui_there_are_no_modules_installed|Չիք տեղակայեալ մոդուլք!
+ui_notification_new_version|Գտաւ նոր տարբերակ Mount&Blade Warband-ի:
+ui_new_version_found|Նոր տարբերակ գտաւ!
+ui_notification_unable_to_retreive_new_version|Անկարելի է գտանել զնոր տարբերակ:
+ui_new_version|Նոր տարբերակ:
+ui_notification_latest_version|Դուք գործածէք զնորագոյն տարբերակն:
+ui_mount_and_blade_is_up_to_date|Mount&Blade Warband արդիական է!
+ui_off|Անջատեալ
+ui_continue_playing_the_trial_mode|Շարունակել զփորձնական խաղն
+ui_faq_caption|Հարց եւ պատասխանի
+ui_faq_text|Տեղեկութիւնք վասն խաղոյ:
+ui_auto_adjust|Ինքնակարգաւորում
+ui_screen_size|Որոշակիութիւն էկրանի:
+ui_antialiasing|Հարթեցում եզերաց:
+ui_use_desktop_resolution|Որոշակիութիւն աշխատասեղանի
+ui_play|Խաղալ զMount&Blade Warband
+ui_check_for_new_version|Ստուգել զնոր տարբերակս
+ui_configure|Կարգաւորութիւնք
+ui_configure_caption|Կարգաւորութիւնք
+ui_mountandblade_website|Պաշտօնական կայք:
+ui_current_setting|           Արդի սցենար:
+ui_manual_activation_text1|1) Բացէ՛ք զայս հասցէ ի բրաուզերի:
+ui_manual_activation_text2|2) Գրեցէ՛ք զսերիական թիւն...
+ui_manual_activation_text3|3) ...եւ զկոդ սարքաւորման այսր համակարգչի:
+ui_manual_activation_text4|4) Յետոյ կայքն տացէ ձեզ զկոդ ակտիւացման: Գրեցէ՛ք զայն աստ:
+ui_activation_code|Կոդ ակտիւացման:
+ui_force_vsync|Ուղղահայեաց սինխրոնիզացում
+ui_module_newer_than_application|Խաղն նորագոյն է քան զկիրառութիւնն:
+ui_module_older_than_application|Խաղն հնագոյն է քան զկիրառութիւնն:
+ui_m_low|Ցածր
+ui_m_high|Բարձր
+ui_m_ultra_high|Յոյժ բարձր
+ui_force_single_threading|Միապրոցեսոր կերպ
+ui_not_enough_memory|Չիք բաւական յիշողութիւն (RAM): Պահանջի առնուազն 700 MB:
+ui_install|Տեղակայել զMount&Blade Warband
+DirectXText|DirectX չիք:
+NoMountAndBladeText|Խաղն չէ տեղադրեալ:
+ui_SavegamesText|Կամի՞ս պահել զխաղս:
+ui_trialmode_online|Mount&Blade Warband խաղայ փորձնական կերպիւ:
+ui_launch_activate|Գրեցէ՛ք զսերիական թիւն
+ui_trialmode2_online|Յետ գնելոյ լիցենզիա...
+ui_trialmode3_online|Կամ եթէ ոչ կամիս...
+ui_trialmode4_online|Գնումն առցանց է անվտանգ:
+ui_ondemand_textures|Բեռնել զկառուցուածսն ըստ պահանջի
+ui_language|Լեզու:
+ui_steam_not_running|Steam ոչ է միացեալ: Պարտ է միացուցանել զSteam վասն խաղալոյ:
+ui_switch_to_turkish_explanation|Կամի՞ս փոխել զլեզուն ի թուրքերէն:
+ui_switch_to_turkish_yes|Այո
+ui_switch_to_turkish_no|Ոչ
+ui_new_version_message|Գոյ նոր տարբերակ:
+ui_enable_version_check|Ստուգել զտարբերակս
+ui_disable|Արգելել
+ui_yes2|Այո՛
+ui_no2|Ո՛չ
+ui_new_version_message2|Գոյ նոր տարբերակ, այցելեա զկայքն:

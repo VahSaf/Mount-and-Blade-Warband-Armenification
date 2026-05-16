@@ -1,0 +1,1355 @@
+﻿trp_multiplayer_profile_troop_male|մարտիկ այր
+trp_multiplayer_profile_troop_male_pl|մարտիկք արք
+trp_multiplayer_profile_troop_female|մարտիկ կին
+trp_multiplayer_profile_troop_female_pl|մարտիկք կանայք
+trp_temp_troop|Առժամանակեայ զօրական
+trp_temp_troop_pl|Առժամանակեայ զօրականք
+trp_find_item_cheat|գտանել զիրս
+trp_find_item_cheat_pl|գտանել զիրս
+trp_random_town_sequence|Կարգ քաղաքաց պատահական
+trp_random_town_sequence_pl|Կարգք քաղաքաց պատահականք
+trp_tournament_participants|Մասնակիցք մրցութեան
+trp_tournament_participants_pl|Մասնակիցք մրցութեան
+trp_tutorial_maceman|Գուրզակիր
+trp_tutorial_maceman_pl|Գուրզակիրք
+trp_tutorial_archer|Աղեղնաւոր
+trp_tutorial_archer_pl|Աղեղնաւորք
+trp_tutorial_swordsman|Սուսերակիր
+trp_tutorial_swordsman_pl|Սուսերակիրք
+trp_novice_fighter|Մարտիկ նորագիր
+trp_novice_fighter_pl|Մարտիկք նորագիրք
+trp_regular_fighter|Մարտիկ վարժեալ
+trp_regular_fighter_pl|Մարտիկք վարժեալք
+trp_veteran_fighter|Մարտիկ փորձառու
+trp_veteran_fighter_pl|Մարտիկք փորձառուք
+trp_champion_fighter|Մարտիկ ընտիր
+trp_champion_fighter_pl|Մարտիկք ընտիրք
+trp_arena_training_fighter_1|Մարտիկ նորագիր
+trp_arena_training_fighter_1_pl|Մարտիկք նորագիրք
+trp_arena_training_fighter_2|Մարտիկ նորագիր
+trp_arena_training_fighter_2_pl|Մարտիկք նորագիրք
+trp_arena_training_fighter_3|Մարտիկ վարժեալ
+trp_arena_training_fighter_3_pl|Մարտիկք վարժեալք
+trp_arena_training_fighter_4|Մարտիկ վարժեալ
+trp_arena_training_fighter_4_pl|Մարտիկք վարժեալք
+trp_arena_training_fighter_5|Մարտիկ վարժեալ
+trp_arena_training_fighter_5_pl|Մարտիկք վարժեալք
+trp_arena_training_fighter_6|Մարտիկ փորձառու
+trp_arena_training_fighter_6_pl|Մարտիկք փորձառուք
+trp_arena_training_fighter_7|Մարտիկ փորձառու
+trp_arena_training_fighter_7_pl|Մարտիկք փորձառուք
+trp_arena_training_fighter_8|Մարտիկ փորձառու
+trp_arena_training_fighter_8_pl|Մարտիկք փորձառուք
+trp_arena_training_fighter_9|Մարտիկ ընտիր
+trp_arena_training_fighter_9_pl|Մարտիկք ընտիրք
+trp_arena_training_fighter_10|Մարտիկ ընտիր
+trp_arena_training_fighter_10_pl|Մարտիկք ընտիրք
+trp_cattle|Արջառ
+trp_cattle_pl|Արջառք
+trp_farmer|Մշակ
+trp_farmer_pl|Մշակք
+trp_townsman|Քաղաքացի
+trp_townsman_pl|Քաղաքացիք
+trp_watchman|Պահապան
+trp_watchman_pl|Պահապանք
+trp_caravan_guard|Պահապան կարաւանի
+trp_caravan_guard_pl|Պահապանք կարաւանի
+trp_mercenary_swordsman|Վարձկան սուսերակիր
+trp_mercenary_swordsman_pl|Վարձկանք սուսերակիրք
+trp_hired_blade|Վարձկան ընտիր
+trp_hired_blade_pl|Վարձկանք ընտիրք
+trp_mercenary_crossbowman|Վարձկան աղեղնասարքաւոր
+trp_mercenary_crossbowman_pl|Վարձկանք աղեղնասարքաւորք
+trp_mercenary_horseman|Վարձկան հեծեալ
+trp_mercenary_horseman_pl|Վարձկանք հեծեալք
+trp_mercenary_cavalry|Վարձկան այրուձի
+trp_mercenary_cavalry_pl|Վարձկանք այրուձիք
+trp_mercenaries_end|վախճան վարձկանաց
+trp_mercenaries_end_pl|վախճան վարձկանաց
+trp_swadian_recruit|Նորագիր սուադեաց
+trp_swadian_recruit_pl|Նորագիրք սուադեաց
+trp_swadian_militia|Աշխարհազօր սուադեաց
+trp_swadian_militia_pl|Աշխարհազօրք սուադեաց
+trp_swadian_footman|Հետեւակ սուադեաց
+trp_swadian_footman_pl|Հետեւակք սուադեաց
+trp_swadian_infantry|Հետեւակազօր սուադեաց
+trp_swadian_infantry_pl|Հետեւակազօրք սուադեաց
+trp_swadian_sergeant|Տասնապետ սուադեաց
+trp_swadian_sergeant_pl|Տասնապետք սուադեաց
+trp_swadian_skirmisher|Թեթեւազէն սուադեաց
+trp_swadian_skirmisher_pl|Թեթեւազէնք սուադեաց
+trp_swadian_crossbowman|Աղեղնասարքաւոր սուադեաց
+trp_swadian_crossbowman_pl|Աղեղնասարքաւորք սուադեաց
+trp_swadian_sharpshooter|Ընտիր աղեղնասարքաւոր սուադեաց
+trp_swadian_sharpshooter_pl|Ընտիրք աղեղնասարքաւորք սուադեաց
+trp_swadian_man_at_arms|Սպառազէն հեծեալ սուադեաց
+trp_swadian_man_at_arms_pl|Սպառազէնք հեծեալք սուադեաց
+trp_swadian_knight|Ասպետ սուադեաց
+trp_swadian_knight_pl|Ասետք սուադեաց
+trp_swadian_messenger|Պատգամաւոր սուադեաց
+trp_swadian_messenger_pl|Պատգամաւորք սուադեաց
+trp_swadian_deserter|Դասալիք սուադեաց
+trp_swadian_deserter_pl|Դասալիք սուադեաց
+trp_swadian_prison_guard|Բանտապահ
+trp_swadian_prison_guard_pl|Բանտապահք
+trp_swadian_castle_guard|Պահապան բերդի
+trp_swadian_castle_guard_pl|Պահապանք բերդի
+trp_vaegir_recruit|Նորագիր վէգիրաց
+trp_vaegir_recruit_pl|Նորագիրք վէգիրաց
+trp_vaegir_footman|Հետեւակ վէգիրաց
+trp_vaegir_footman_pl|Հետեւակք վէգիրաց
+trp_vaegir_skirmisher|Թեթեւազէն վէգիրաց
+trp_vaegir_skirmisher_pl|Թեթեւազէնք վէգիրաց
+trp_vaegir_archer|Աղեղնաւոր վէգիրաց
+trp_vaegir_archer_pl|Աղեղնաւորք վէգիրաց
+trp_vaegir_marksman|Ընտիր աղեղնաւոր վէգիրաց
+trp_vaegir_marksman_pl|Ընտիրք աղեղնաւորք վէգիրաց
+trp_vaegir_veteran|Փորձառու վէգիրաց
+trp_vaegir_veteran_pl|Փորձառուք վէգիրաց
+trp_vaegir_infantry|Հետեւակազօր վէգիրաց
+trp_vaegir_infantry_pl|Հետեւակազօրք վէգիրաց
+trp_vaegir_guard|Պահապան վէգիրաց
+trp_vaegir_guard_pl|Պահապանք վէգիրաց
+trp_vaegir_horseman|Հեծեալ վէգիրաց
+trp_vaegir_horseman_pl|Հեծեալք վէգիրաց
+trp_vaegir_knight|Ասպետ վէգիրաց
+trp_vaegir_knight_pl|Ասպետք վէգիրաց
+trp_vaegir_messenger|Պատգամաւոր վէգիրաց
+trp_vaegir_messenger_pl|Պատգամաւորք վէգիրաց
+trp_vaegir_deserter|Դասալիք վէգիրաց
+trp_vaegir_deserter_pl|Դասալիք վէգիրաց
+trp_vaegir_prison_guard|Բանտապահ
+trp_vaegir_prison_guard_pl|Բանտապահք
+trp_vaegir_castle_guard|Պահապան բերդի
+trp_vaegir_castle_guard_pl|Պահապանք բերդի
+trp_khergit_tribesman|Զօրական քերգիթաց
+trp_khergit_tribesman_pl|Զօրականք քերգիթաց
+trp_khergit_skirmisher|Թեթեւազէն քերգիթաց
+trp_khergit_skirmisher_pl|Թեթեւազէնք քերգիթաց
+trp_khergit_horseman|Հեծեալ քերգիթաց
+trp_khergit_horseman_pl|Հեծեալք քերգիթաց
+trp_khergit_horse_archer|Հեծեալ աղեղնաւոր քերգիթաց
+trp_khergit_horse_archer_pl|Հեծեալք աղեղնաւորք քերգիթաց
+trp_khergit_veteran_horse_archer|Փորձառու հեծեալ աղեղնաւոր քերգիթաց
+trp_khergit_veteran_horse_archer_pl|Փորձառուք հեծեալք աղեղնաւորք քերգիթաց
+trp_khergit_lancer|Նիզակակիր քերգիթաց
+trp_khergit_lancer_pl|Նիզակակիրք քերգիթաց
+trp_khergit_messenger|Պատգամաւոր քերգիթաց
+trp_khergit_messenger_pl|Պատգամաւորք քերգիթաց
+trp_khergit_deserter|Դասալիք քերգիթաց
+trp_khergit_deserter_pl|Դասալիք քերգիթաց
+trp_khergit_prison_guard|Բանտապահ
+trp_khergit_prison_guard_pl|Բանտապահք
+trp_khergit_castle_guard|Պահապան բերդի
+trp_khergit_castle_guard_pl|Պահապանք բերդի
+trp_nord_recruit|Նորագիր նորդաց
+trp_nord_recruit_pl|Նորագիրք նորդաց
+trp_nord_footman|Հետեւակ նորդաց
+trp_nord_footman_pl|Հետեւակք նորդաց
+trp_nord_trained_footman|Վարժեալ հետեւակ նորդաց
+trp_nord_trained_footman_pl|Վարժեալք հետեւակք նորդաց
+trp_nord_warrior|Մարտիկ նորդաց
+trp_nord_warrior_pl|Մարտիկք նորդաց
+trp_nord_veteran|Փորձառու նորդաց
+trp_nord_veteran_pl|Փորձառուք նորդաց
+trp_nord_champion|Դիւցազն նորդաց
+trp_nord_champion_pl|Դիւցազունք նորդաց
+trp_nord_huntsman|Որսորդ նորդաց
+trp_nord_huntsman_pl|Որսորդք նորդաց
+trp_nord_archer|Աղեղնաւոր նորդաց
+trp_nord_archer_pl|Աղեղնաւորք նորդաց
+trp_nord_veteran_archer|Փորձառու աղեղնաւոր նորդաց
+trp_nord_veteran_archer_pl|Փորձառուք աղեղնաւորք նորդաց
+trp_nord_messenger|Պատգամաւոր նորդաց
+trp_nord_messenger_pl|Պատգամաւորք նորդաց
+trp_nord_deserter|Դասալիք նորդաց
+trp_nord_deserter_pl|Դասալիք նորդաց
+trp_nord_prison_guard|Բանտապահ
+trp_nord_prison_guard_pl|Բանտապահք
+trp_nord_castle_guard|Պահապան բերդի
+trp_nord_castle_guard_pl|Պահապանք բերդի
+trp_rhodok_tribesman|Զօրական ռոդոկաց
+trp_rhodok_tribesman_pl|Զօրականք ռոդոկաց
+trp_rhodok_spearman|Նիզակակիր ռոդոկաց
+trp_rhodok_spearman_pl|Նիզակակիրք ռոդոկաց
+trp_rhodok_trained_spearman|Վարժեալ նիզակակիր ռոդոկաց
+trp_rhodok_trained_spearman_pl|Վարժեալք նիզակակիրք ռոդոկաց
+trp_rhodok_veteran_spearman|Փորձառու նիզակակիր ռոդոկաց
+trp_rhodok_veteran_spearman_pl|Փորձառուք նիզակակիրք ռոդոկաց
+trp_rhodok_sergeant|Տասնապետ ռոդոկաց
+trp_rhodok_sergeant_pl|Տասնապետք ռոդոկաց
+trp_rhodok_crossbowman|Աղեղնասարքաւոր ռոդոկաց
+trp_rhodok_crossbowman_pl|Աղեղնասարքաւորք ռոդոկաց
+trp_rhodok_trained_crossbowman|Վարժեալ աղեղնասարքաւոր ռոդոկաց
+trp_rhodok_trained_crossbowman_pl|Վարժեալք աղեղնասարքաւորք ռոդոկաց
+trp_rhodok_veteran_crossbowman|Փորձառու աղեղնասարքաւոր ռոդոկաց
+trp_rhodok_veteran_crossbowman_pl|Փորձառուք աղեղնասարքաւորք ռոդոկաց
+trp_rhodok_sharpshooter|Ընտիր աղեղնասարքաւոր ռոդոկաց
+trp_rhodok_sharpshooter_pl|Ընտիրք աղեղնասարքաւորք ռոդոկաց
+trp_rhodok_messenger|Պատգամաւոր ռոդոկաց
+trp_rhodok_messenger_pl|Պատգամաւորք ռոդոկաց
+trp_rhodok_deserter|Դասալիք ռոդոկաց
+trp_rhodok_deserter_pl|Դասալիք ռոդոկաց
+trp_rhodok_prison_guard|Բանտապահ
+trp_rhodok_prison_guard_pl|Բանտապահք
+trp_rhodok_castle_guard|Պահապան բերդի
+trp_rhodok_castle_guard_pl|Պահապանք բերդի
+trp_sarranid_recruit|Նորագիր սարրանեաց
+trp_sarranid_recruit_pl|Նորագիրք սարրանեաց
+trp_sarranid_footman|Հետեւակ սարրանեաց
+trp_sarranid_footman_pl|Հետեւակք սարրանեաց
+trp_sarranid_veteran_footman|Փորձառու հետեւակ սարրանեաց
+trp_sarranid_veteran_footman_pl|Փորձառուք հետեւակք սարրանեաց
+trp_sarranid_infantry|Հետեւակազօր սարրանեաց
+trp_sarranid_infantry_pl|Հետեւակազօրք սարրանեաց
+trp_sarranid_guard|Պահապան սարրանեաց
+trp_sarranid_guard_pl|Պահապանք սարրանեաց
+trp_sarranid_skirmisher|Թեթեւազէն սարրանեաց
+trp_sarranid_skirmisher_pl|Թեթեւազէնք սարրանեաց
+trp_sarranid_archer|Աղեղնաւոր սարրանեաց
+trp_sarranid_archer_pl|Աղեղնաւորք սարրանեաց
+trp_sarranid_master_archer|Փորձառու աղեղնաւոր սարրանեաց
+trp_sarranid_master_archer_pl|Փորձառուք աղեղնաւորք սարրանեաց
+trp_sarranid_horseman|Հեծեալ սարրանեաց
+trp_sarranid_horseman_pl|Հեծեալք սարրանեաց
+trp_sarranid_mamluke|Մամլուք սարրանեաց
+trp_sarranid_mamluke_pl|Մամլուքք սարրանեաց
+trp_sarranid_messenger|Պատգամաւոր սարրանեաց
+trp_sarranid_messenger_pl|Պատգամաւորք սարրանեաց
+trp_sarranid_deserter|Դասալիք սարրանեաց
+trp_sarranid_deserter_pl|Դասալիք սարրանեաց
+trp_sarranid_prison_guard|Բանտապահ
+trp_sarranid_prison_guard_pl|Բանտապահք
+trp_sarranid_castle_guard|Պահապան բերդի
+trp_sarranid_castle_guard_pl|Պահապանք բերդի
+trp_looter|Աւարառու
+trp_looter_pl|Աւարառուք
+trp_bandit|Յելուզակ
+trp_bandit_pl|Յելուզակք
+trp_brigand|Չարագործ
+trp_brigand_pl|Չարագործք
+trp_mountain_bandit|Լեռնային յելուզակ
+trp_mountain_bandit_pl|Լեռնային յելուզակք
+trp_forest_bandit|Անտառային յելուզակ
+trp_forest_bandit_pl|Անտառային յելուզակք
+trp_sea_raider|Ծովահեն յելուզակ
+trp_sea_raider_pl|Ծովահեն յելուզակք
+trp_steppe_bandit|Դաշտային յելուզակ
+trp_steppe_bandit_pl|Դաշտային յելուզակք
+trp_taiga_bandit|Տունդրայի յելուզակ
+trp_taiga_bandit_pl|Տունդրայի յելուզակք
+trp_desert_bandit|Անապատի յելուզակ
+trp_desert_bandit_pl|Անապատի յելուզակք
+trp_black_khergit_horseman|Հեծեալ սեաւ քերգիթաց
+trp_black_khergit_horseman_pl|Հեծեալք սեաւք քերգիթաց
+trp_manhunter|Որսորդ մարդկան
+trp_manhunter_pl|Որսորդք մարդկան
+trp_slave_driver|Վարիչ ստրկաց
+trp_slave_driver_pl|Վարիչք ստրկաց
+trp_slave_hunter|Որսորդ ստրկաց
+trp_slave_hunter_pl|Որսորդք ստրկաց
+trp_slave_crusher|Ջախջախիչ ստրկաց
+trp_slave_crusher_pl|Ջախջախիչք ստրկաց
+trp_slaver_chief|Պետ ստրկավարաց
+trp_slaver_chief_pl|Պետք ստրկավարաց
+trp_follower_woman|Կին ուղեկից
+trp_follower_woman_pl|Կանայք ուղեկիցք
+trp_hunter_woman|Կին որսորդ
+trp_hunter_woman_pl|Կանայք որսորդք
+trp_fighter_woman|Կին մարտիկ
+trp_fighter_woman_pl|Կանայք մարտիկք
+trp_sword_sister|Քոյր սուսերի
+trp_sword_sister_pl|Քոյրք սուսերի
+trp_refugee|Պանդուխտ
+trp_refugee_pl|Պանդուխտք
+trp_peasant_woman|Գեղջուկ կին
+trp_peasant_woman_pl|Գեղջուկ կանայք
+trp_caravan_master|Պետ կարաւանի
+trp_caravan_master_pl|Պետք կարաւանաց
+trp_kidnapped_girl|Աղջիկ պատանդ
+trp_kidnapped_girl_pl|Աղջիկք պատանդք
+trp_town_walker_1|Այր քաղաքացի
+trp_town_walker_1_pl|Արք քաղաքացիք
+trp_town_walker_2|Կին քաղաքացի
+trp_town_walker_2_pl|Կանայք քաղաքացիք
+trp_khergit_townsman|Այր քաղաքացի քերգիթաց
+trp_khergit_townsman_pl|Արք քաղաքացիք քերգիթաց
+trp_khergit_townswoman|Կին քաղաքացի քերգիթաց
+trp_khergit_townswoman_pl|Կանայք քաղաքացիք քերգիթաց
+trp_sarranid_townsman|Այր քաղաքացի սարրանեաց
+trp_sarranid_townsman_pl|Արք քաղաքացիք սարրանեաց
+trp_sarranid_townswoman|Կին քաղաքացի սարրանեաց
+trp_sarranid_townswoman_pl|Կանայք քաղաքացիք սարրանեաց
+trp_village_walker_1|Գեղջուկ
+trp_village_walker_1_pl|Գեղջուկք
+trp_village_walker_2|Գեղջուկ
+trp_village_walker_2_pl|Գեղջուկք
+trp_spy_walker_1|Այր քաղաքացի
+trp_spy_walker_1_pl|Արք քաղաքացիք
+trp_spy_walker_2|Կին քաղաքացի
+trp_spy_walker_2_pl|Կանայք քաղաքացիք
+trp_tournament_master|Վերակացու մրցութեան
+trp_tournament_master_pl|Վերակացուք մրցութեանց
+trp_trainer|Վարժիչ
+trp_trainer_pl|Վարժիչք
+trp_constable_hareck|Ոստիկան Հարեկ
+trp_constable_hareck_pl|Ոստիկան Հարեկ
+trp_ramun_the_slave_trader|Ռամուն ստրկավաճառ
+trp_ramun_the_slave_trader_pl|Ռամուն ստրկավաճառ
+trp_guide|Ճարտար Ճիմմի
+trp_guide_pl|Ճարտար Ճիմմի
+trp_xerina|Քսերինա
+trp_xerina_pl|Քսերինա
+trp_dranton|Դրանտոն
+trp_dranton_pl|Դրանտոն
+trp_kradus|Կրադուս
+trp_kradus_pl|Կրադուս
+trp_tutorial_trainer|Վարժապետ զինավարժութեան
+trp_tutorial_trainer_pl|Վարժապետք զինավարժութեան
+trp_galeas|Գալեաս
+trp_galeas_pl|Գալեաս
+trp_farmer_from_bandit_village|Գեղջուկ
+trp_farmer_from_bandit_village_pl|Գեղջուկք
+trp_trainer_1|Վարժիչ
+trp_trainer_1_pl|Վարժիչք
+trp_trainer_2|Վարժիչ
+trp_trainer_2_pl|Վարժիչք
+trp_trainer_3|Վարժիչ
+trp_trainer_3_pl|Վարժիչք
+trp_trainer_4|Վարժիչ
+trp_trainer_4_pl|Վարժիչք
+trp_trainer_5|Վարժիչ
+trp_trainer_5_pl|Վարժիչք
+trp_ransom_broker_1|Ստրկավաճառ
+trp_ransom_broker_1_pl|Ստրկավաճառք
+trp_ransom_broker_2|Ստրկավաճառ
+trp_ransom_broker_2_pl|Ստրկավաճառք
+trp_ransom_broker_3|Ստրկավաճառ
+trp_ransom_broker_3_pl|Ստրկավաճառք
+trp_ransom_broker_4|Ստրկավաճառ
+trp_ransom_broker_4_pl|Ստրկավաճառք
+trp_ransom_broker_5|Ստրկավաճառ
+trp_ransom_broker_5_pl|Ստրկավաճառք
+trp_ransom_broker_6|Ստրկավաճառ
+trp_ransom_broker_6_pl|Ստրկավաճառք
+trp_ransom_broker_7|Ստրկավաճառ
+trp_ransom_broker_7_pl|Ստրկավաճառք
+trp_ransom_broker_8|Ստրկավաճառ
+trp_ransom_broker_8_pl|Ստրկավաճառք
+trp_ransom_broker_9|Ստրկավաճառ
+trp_ransom_broker_9_pl|Ստրկավաճառք
+trp_ransom_broker_10|Ստրկավաճառ
+trp_ransom_broker_10_pl|Ստրկավաճառք
+trp_tavern_traveler_1|Ուղեւոր
+trp_tavern_traveler_1_pl|Ուղեւորք
+trp_tavern_traveler_2|Ուղեւոր
+trp_tavern_traveler_2_pl|Ուղեւորք
+trp_tavern_traveler_3|Ուղեւոր
+trp_tavern_traveler_3_pl|Ուղեւորք
+trp_tavern_traveler_4|Ուղեւոր
+trp_tavern_traveler_4_pl|Ուղեւորք
+trp_tavern_traveler_5|Ուղեւոր
+trp_tavern_traveler_5_pl|Ուղեւորք
+trp_tavern_traveler_6|Ուղեւոր
+trp_tavern_traveler_6_pl|Ուղեւորք
+trp_tavern_traveler_7|Ուղեւոր
+trp_tavern_traveler_7_pl|Ուղեւորք
+trp_tavern_traveler_8|Ուղեւոր
+trp_tavern_traveler_8_pl|Ուղեւորք
+trp_tavern_traveler_9|Ուղեւոր
+trp_tavern_traveler_9_pl|Ուղեւորք
+trp_tavern_traveler_10|Ուղեւոր
+trp_tavern_traveler_10_pl|Ուղեւորք
+trp_tavern_bookseller_1|Գրավաճառ
+trp_tavern_bookseller_1_pl|Գրավաճառք
+trp_tavern_bookseller_2|Գրավաճառ
+trp_tavern_bookseller_2_pl|Գրավաճառք
+trp_tavern_minstrel_1|Գուսան
+trp_tavern_minstrel_1_pl|Գուսանք
+trp_tavern_minstrel_2|Գուսան
+trp_tavern_minstrel_2_pl|Գուսանք
+trp_tavern_minstrel_3|Գուսան
+trp_tavern_minstrel_3_pl|Գուսանք
+trp_tavern_minstrel_4|Գուսան
+trp_tavern_minstrel_4_pl|Գուսանք
+trp_tavern_minstrel_5|Գուսան
+trp_tavern_minstrel_5_pl|Գուսանք
+trp_kingdom_heroes_including_player_begin|սկիզբ հերոսաց թագաւորութեան
+trp_kingdom_heroes_including_player_begin_pl|սկիզբ հերոսաց թագաւորութեան
+trp_npc1|Բորչա
+trp_npc1_pl|Բորչա
+trp_npc2|Մառնիդ
+trp_npc2_pl|Մառնիդ
+trp_npc3|Իմիրա
+trp_npc3_pl|Իմիրա
+trp_npc4|Ռոլֆ
+trp_npc4_pl|Ռոլֆ
+trp_npc5|Բահեշտուր
+trp_npc5_pl|Բահեշտուր
+trp_npc6|Ֆիրենտիս
+trp_npc6_pl|Ֆիրենտիս
+trp_npc7|Դեշավի
+trp_npc7_pl|Դեշավի
+trp_npc8|Մաթելդ
+trp_npc8_pl|Մաթելդ
+trp_npc9|Ալայեն
+trp_npc9_pl|Ալայեն
+trp_npc10|Բունդուկ
+trp_npc10_pl|Բունդուկ
+trp_npc11|Կատրին
+trp_npc11_pl|Կատրին
+trp_npc12|Յերեմուս
+trp_npc12_pl|Յերեմուս
+trp_npc13|Նիզար
+trp_npc13_pl|Նիզար
+trp_npc14|Լեզալիտ
+trp_npc14_pl|Լեզալիտ
+trp_npc15|Արտիմեններ
+trp_npc15_pl|Արտիմեններ
+trp_npc16|Կլեթի
+trp_npc16_pl|Կլեթի
+trp_kingdom_1_lord|Թագաւոր Հարլաւս
+trp_kingdom_1_lord_pl|Հարլաւս
+trp_kingdom_2_lord|Թագաւոր Եարոգլեկ
+trp_kingdom_2_lord_pl|Եարոգլեկ
+trp_kingdom_3_lord|Սանճար Խան
+trp_kingdom_3_lord_pl|Սանճար
+trp_kingdom_4_lord|Թագաւոր Ռագնար
+trp_kingdom_4_lord_pl|Ռագնար
+trp_kingdom_5_lord|Թագաւոր Գրավեթ
+trp_kingdom_5_lord_pl|Գրավեթ
+trp_kingdom_6_lord|Սուլթան Հակիմ
+trp_kingdom_6_lord_pl|Հակիմ
+trp_knight_1_1|Կոմս Կլարգուս
+trp_knight_1_1_pl|Կլարգուս
+trp_knight_1_2|Կոմս Պլայիս
+trp_knight_1_2_pl|Պլայիս
+trp_knight_1_3|Կոմս Միրշօ
+trp_knight_1_3_pl|Միրշօ
+trp_knight_1_4|Կոմս Ստամար
+trp_knight_1_4_pl|Ստամար
+trp_knight_1_5|Կոմս Ռայիս
+trp_knight_1_5_pl|Ռայիս
+trp_knight_1_6|Կոմս Մելտոր
+trp_knight_1_6_pl|Մելտոր
+trp_knight_1_7|Կոմս Բերանզ
+trp_knight_1_7_pl|Բերանզ
+trp_knight_1_8|Կոմս Պելագնար
+trp_knight_1_8_pl|Պելագնար
+trp_knight_1_9|Կոմս Ռեգոս
+trp_knight_1_9_pl|Ռեգոս
+trp_knight_1_10|Կոմս Գրէյնուադ
+trp_knight_1_10_pl|Գրէյնուադ
+trp_knight_1_11|Կոմս Դեւլիան
+trp_knight_1_11_pl|Դեւլիան
+trp_knight_1_12|Կոմս Ռաֆարշ
+trp_knight_1_12_pl|Ռաֆարշ
+trp_knight_1_13|Կոմս Ռոշաբարթ
+trp_knight_1_13_pl|Ռոշաբարթ
+trp_knight_1_14|Կոմս Դելինարդ
+trp_knight_1_14_pl|Դելինարդ
+trp_knight_1_15|Կոմս Հարինգոթ
+trp_knight_1_15_pl|Հարինգոթ
+trp_knight_1_16|Կոմս Դեսպին
+trp_knight_1_16_pl|Դեսպին
+trp_knight_1_17|Կոմս Մոնտեուար
+trp_knight_1_17_pl|Մոնտեուար
+trp_knight_1_18|Կոմս Կլայիս
+trp_knight_1_18_pl|Կլայիս
+trp_knight_1_19|Կոմս Դեգլան
+trp_knight_1_19_pl|Դեգլան
+trp_knight_1_20|Կոմս Տրեդիան
+trp_knight_1_20_pl|Տրեդիան
+trp_knight_2_1|Տէր Վուլդրատ
+trp_knight_2_1_pl|Վուլդրատ
+trp_knight_2_2|Տէր Նալդերա
+trp_knight_2_2_pl|Նալդերա
+trp_knight_2_3|Տէր Մերիգա
+trp_knight_2_3_pl|Մերիգա
+trp_knight_2_4|Տէր Խաւել
+trp_knight_2_4_pl|Խաւել
+trp_knight_2_5|Տէր Դորու
+trp_knight_2_5_pl|Դորու
+trp_knight_2_6|Տէր Բելգարու
+trp_knight_2_6_pl|Բելգարու
+trp_knight_2_7|Տէր Ռալչա
+trp_knight_2_7_pl|Ռալչա
+trp_knight_2_8|Տէր Վլան
+trp_knight_2_8_pl|Վլան
+trp_knight_2_9|Տէր Մլեզա
+trp_knight_2_9_pl|Մլեզա
+trp_knight_2_10|Տէր Նելագ
+trp_knight_2_10_pl|Նելագ
+trp_knight_2_11|Տէր Կրահասկ
+trp_knight_2_11_pl|Կրահասկ
+trp_knight_2_12|Տէր Բրաչա
+trp_knight_2_12_pl|Բրաչա
+trp_knight_2_13|Տէր Դրուլի
+trp_knight_2_13_pl|Դրուլի
+trp_knight_2_14|Տէր Մարմուն
+trp_knight_2_14_pl|Մարմուն
+trp_knight_2_15|Տէր Գաստիա
+trp_knight_2_15_pl|Գաստիա
+trp_knight_2_16|Տէր Հարիշ
+trp_knight_2_16_pl|Հարիշ
+trp_knight_2_17|Տէր Տայիսա
+trp_knight_2_17_pl|Տայիսա
+trp_knight_2_18|Տէր Վալիշին
+trp_knight_2_18_pl|Վալիշին
+trp_knight_2_19|Տէր Ռուդին
+trp_knight_2_19_pl|Ռուդին
+trp_knight_2_20|Տէր Կումիպա
+trp_knight_2_20_pl|Կումիպա
+trp_knight_3_1|Ալագուր Նոյեան
+trp_knight_3_1_pl|Ալագուր
+trp_knight_3_2|Տոնջու Նոյեան
+trp_knight_3_2_pl|Տոնջու
+trp_knight_3_3|Բելիր Նոյեան
+trp_knight_3_3_pl|Բելիր
+trp_knight_3_4|Ասուգան Նոյեան
+trp_knight_3_4_pl|Ասուգան
+trp_knight_3_5|Բրուլա Նոյեան
+trp_knight_3_5_pl|Բրուլա
+trp_knight_3_6|Իմիրզա Նոյեան
+trp_knight_3_6_pl|Իմիրզա
+trp_knight_3_7|Ուրումուդա Նոյեան
+trp_knight_3_7_pl|Ուրումուդա
+trp_knight_3_8|Կրամուկ Նոյեան
+trp_knight_3_8_pl|Կրամուկ
+trp_knight_3_9|Շաուրկա Նոյեան
+trp_knight_3_9_pl|Շաուրկա
+trp_knight_3_10|Սեբուլա Նոյեան
+trp_knight_3_10_pl|Սեբուլա
+trp_knight_3_11|Տուլուգ Նոյեան
+trp_knight_3_11_pl|Տուլուգ
+trp_knight_3_12|Նասուգեյ Նոյեան
+trp_knight_3_12_pl|Նասուգեյ
+trp_knight_3_13|Ուրուբայ Նոյեան
+trp_knight_3_13_pl|Ուրուբայ
+trp_knight_3_14|Հուգու Նոյեան
+trp_knight_3_14_pl|Հուգու
+trp_knight_3_15|Տանսուգայ Նոյեան
+trp_knight_3_15_pl|Տանսուգայ
+trp_knight_3_16|Տիրիդա Նոյեան
+trp_knight_3_16_pl|Տիրիդա
+trp_knight_3_17|Ուլուսամայ Նոյեան
+trp_knight_3_17_pl|Ուլուսամայ
+trp_knight_3_18|Կարաբան Նոյեան
+trp_knight_3_18_pl|Կարաբան
+trp_knight_3_19|Ակադան Նոյեան
+trp_knight_3_19_pl|Ակադան
+trp_knight_3_20|Դունդուշ Նոյեան
+trp_knight_3_20_pl|Դունդուշ
+trp_knight_4_1|Կոմս Այդին
+trp_knight_4_1_pl|Այդին
+trp_knight_4_2|Կոմս Իրեայ
+trp_knight_4_2_pl|Իրեայ
+trp_knight_4_3|Կոմս Օլաֆ
+trp_knight_4_3_pl|Օլաֆ
+trp_knight_4_4|Կոմս Ռեամալդ
+trp_knight_4_4_pl|Ռեամալդ
+trp_knight_4_5|Կոմս Տուրեայ
+trp_knight_4_5_pl|Տուրեայ
+trp_knight_4_6|Կոմս Գունդուր
+trp_knight_4_6_pl|Գունդուր
+trp_knight_4_7|Կոմս Հարալդ
+trp_knight_4_7_pl|Հարալդ
+trp_knight_4_8|Կոմս Կնուդար
+trp_knight_4_8_pl|Կնուդար
+trp_knight_4_9|Կոմս Հայդա
+trp_knight_4_9_pl|Հայդա
+trp_knight_4_10|Կոմս Տուրեգոր
+trp_knight_4_10_pl|Տուրեգոր
+trp_knight_4_11|Կոմս Լոգարսոն
+trp_knight_4_11_pl|Լոգարսոն
+trp_knight_4_12|Կոմս Այրիկ
+trp_knight_4_12_pl|Այրիկ
+trp_knight_4_13|Կոմս Ֆաառն
+trp_knight_4_13_pl|Ֆաառն
+trp_knight_4_14|Կոմս Բուլբա
+trp_knight_4_14_pl|Բուլբա
+trp_knight_4_15|Կոմս Ռայեկ
+trp_knight_4_15_pl|Ռայեկ
+trp_knight_4_16|Կոմս Դիրիգուն
+trp_knight_4_16_pl|Դիրիգուն
+trp_knight_4_17|Կոմս Մարայիր
+trp_knight_4_17_pl|Մարայիր
+trp_knight_4_18|Կոմս Գիրթ
+trp_knight_4_18_pl|Գիրթ
+trp_knight_4_19|Կոմս Սուրդուն
+trp_knight_4_19_pl|Սուրդուն
+trp_knight_4_20|Կոմս Գերլադ
+trp_knight_4_20_pl|Գերլադ
+trp_knight_5_1|Կոմս Մաթեաս
+trp_knight_5_1_pl|Մաթեաս
+trp_knight_5_2|Կոմս Գուտլանս
+trp_knight_5_2_pl|Գուտլանս
+trp_knight_5_3|Կոմս Լարուկեն
+trp_knight_5_3_pl|Լարուկեն
+trp_knight_5_4|Կոմս Ռայշս
+trp_knight_5_4_pl|Ռայշս
+trp_knight_5_5|Կոմս Ռելանդ
+trp_knight_5_5_pl|Ռելանդ
+trp_knight_5_6|Կոմս Տարշիաս
+trp_knight_5_6_pl|Տարշիաս
+trp_knight_5_7|Կոմս Գարմալ
+trp_knight_5_7_pl|Գարմալ
+trp_knight_5_8|Կոմս Տալբար
+trp_knight_5_8_pl|Տալբար
+trp_knight_5_9|Կոմս Ռիմուսկ
+trp_knight_5_9_pl|Ռիմուսկ
+trp_knight_5_10|Կոմս Ֆալսեւոր
+trp_knight_5_10_pl|Ֆալսեւոր
+trp_knight_5_11|Կոմս Էտրոսկ
+trp_knight_5_11_pl|Էտրոսկ
+trp_knight_5_12|Կոմս Կուրնիաս
+trp_knight_5_12_pl|Կուրնիաս
+trp_knight_5_13|Կոմս Տելլրոգ
+trp_knight_5_13_pl|Տելլրոգ
+trp_knight_5_14|Կոմս Տրիբիդան
+trp_knight_5_14_pl|Տրիբիդան
+trp_knight_5_15|Կոմս Գերլուշս
+trp_knight_5_15_pl|Գերլուշս
+trp_knight_5_16|Կոմս Ֆուդրէյմ
+trp_knight_5_16_pl|Ֆուդրէյմ
+trp_knight_5_17|Կոմս Նեալշա
+trp_knight_5_17_pl|Նեալշա
+trp_knight_5_18|Կոմս Ֆրայշին
+trp_knight_5_18_pl|Ֆրայշին
+trp_knight_5_19|Կոմս Տրիմբօ
+trp_knight_5_19_pl|Տրիմբօ
+trp_knight_5_20|Կոմս Ռայշսին
+trp_knight_5_20_pl|Ռայշսին
+trp_knight_6_1|Ամիրայ Ուկայիս
+trp_knight_6_1_pl|Ուկայիս
+trp_knight_6_2|Ամիրայ Համեզան
+trp_knight_6_2_pl|Համեզան
+trp_knight_6_3|Ամիրայ Ատիս
+trp_knight_6_3_pl|Ատիս
+trp_knight_6_4|Ամիրայ Նուուաս
+trp_knight_6_4_pl|Նուուաս
+trp_knight_6_5|Ամիրայ Մունդալիր
+trp_knight_6_5_pl|Մունդալիր
+trp_knight_6_6|Ամիրայ Գանաուա
+trp_knight_6_6_pl|Գանաուա
+trp_knight_6_7|Ամիրայ Նուամ
+trp_knight_6_7_pl|Նուամ
+trp_knight_6_8|Ամիրայ Դիյուլ
+trp_knight_6_8_pl|Դիյուլ
+trp_knight_6_9|Ամիրայ Լակհեմ
+trp_knight_6_9_pl|Լակհեմ
+trp_knight_6_10|Ամիրայ Գուլասսեն
+trp_knight_6_10_pl|Գուլասսեն
+trp_knight_6_11|Ամիրայ Ազադուն
+trp_knight_6_11_pl|Ազադուն
+trp_knight_6_12|Ամիրայ Կուրիաս
+trp_knight_6_12_pl|Կուրիաս
+trp_knight_6_13|Ամիրայ Ամդար
+trp_knight_6_13_pl|Ամդար
+trp_knight_6_14|Ամիրայ Հիուան
+trp_knight_6_14_pl|Հիուան
+trp_knight_6_15|Ամիրայ Մուհնիր
+trp_knight_6_15_pl|Մուհնիր
+trp_knight_6_16|Ամիրայ Այիամ
+trp_knight_6_16_pl|Այիամ
+trp_knight_6_17|Ամիրայ Ռադդուն
+trp_knight_6_17_pl|Ռադդուն
+trp_knight_6_18|Ամիրայ Տիլիմսան
+trp_knight_6_18_pl|Տիլիմսան
+trp_knight_6_19|Ամիրայ Դաշուալ
+trp_knight_6_19_pl|Դաշուալ
+trp_knight_6_20|Ամիրայ Բիլիիա
+trp_knight_6_20_pl|Բիլիիա
+trp_kingdom_1_pretender|Տիկին Իզոլլայ Սունոյի
+trp_kingdom_1_pretender_pl|Իզոլլայ
+trp_kingdom_2_pretender|Իշխան Վալդիմ Խորթ
+trp_kingdom_2_pretender_pl|Վալդիմ
+trp_kingdom_3_pretender|Դուստում Խան
+trp_kingdom_3_pretender_pl|Դուստում
+trp_kingdom_4_pretender|Լեթուին Հորիզոնայար
+trp_kingdom_4_pretender_pl|Լեթուին
+trp_kingdom_5_pretender|Տէր Կաստոր Վելուկայի
+trp_kingdom_5_pretender_pl|Կաստոր
+trp_kingdom_6_pretender|Արուայ Մարգարտեայ
+trp_kingdom_6_pretender_pl|Արուայ
+trp_knight_1_1_wife|Տիկին Աննա
+trp_knight_1_1_wife_pl|Աննա
+trp_kingdom_1_lady_1|Տիկին Աննա
+trp_kingdom_1_lady_1_pl|Աննա
+trp_kingdom_1_lady_2|Տիկին Նելդա
+trp_kingdom_1_lady_2_pl|Նելդա
+trp_knight_1_lady_3|Տիկին Բելա
+trp_knight_1_lady_3_pl|Բելա
+trp_knight_1_lady_4|Տիկին Էլինա
+trp_knight_1_lady_4_pl|Էլինա
+trp_kingdom_l_lady_5|Տիկին Կոնստանիս
+trp_kingdom_l_lady_5_pl|Կոնստանիս
+trp_kingdom_1_lady_6|Տիկին Վերա
+trp_kingdom_1_lady_6_pl|Վերա
+trp_kingdom_1_lady_7|Տիկին Աուբերինա
+trp_kingdom_1_lady_7_pl|Աուբերինա
+trp_kingdom_1_lady_8|Տիկին Տիբալ
+trp_kingdom_1_lady_8_pl|Տիբալ
+trp_kingdom_1_lady_9|Տիկին Մագար
+trp_kingdom_1_lady_9_pl|Մագար
+trp_kingdom_1_lady_10|Տիկին Թեդոսա
+trp_kingdom_1_lady_10_pl|Թեդոսա
+trp_kingdom_1_lady_11|Տիկին Մելիսար
+trp_kingdom_1_lady_11_pl|Մելիսար
+trp_kingdom_1_lady_12|Տիկին Իրենա
+trp_kingdom_1_lady_12_pl|Իրենա
+trp_kingdom_l_lady_13|Տիկին Ֆիլեննա
+trp_kingdom_l_lady_13_pl|Ֆիլեննա
+trp_kingdom_1_lady_14|Տիկին Սոնադել
+trp_kingdom_1_lady_14_pl|Սոնադել
+trp_kingdom_1_lady_15|Տիկին Բոադիլա
+trp_kingdom_1_lady_15_pl|Բոադիլա
+trp_kingdom_1_lady_16|Տիկին Էլիս
+trp_kingdom_1_lady_16_pl|Էլիս
+trp_kingdom_1_lady_17|Տիկին Յոհանա
+trp_kingdom_1_lady_17_pl|Յոհանա
+trp_kingdom_1_lady_18|Տիկին Բերնատիս
+trp_kingdom_1_lady_18_pl|Բերնատիս
+trp_kingdom_1_lady_19|Տիկին Էնրիկատա
+trp_kingdom_1_lady_19_pl|Էնրիկատա
+trp_kingdom_1_lady_20|Տիկին Գաետա
+trp_kingdom_1_lady_20_pl|Գաետա
+trp_kingdom_2_lady_1|Տիկին Յունիթա
+trp_kingdom_2_lady_1_pl|Յունիթա
+trp_kingdom_2_lady_2|Տիկին Կատիա
+trp_kingdom_2_lady_2_pl|Կատիա
+trp_kingdom_2_lady_3|Տիկին Սեոմիս
+trp_kingdom_2_lady_3_pl|Սեոմիս
+trp_kingdom_2_lady_4|Տիկին Դրինա
+trp_kingdom_2_lady_4_pl|Դրինա
+trp_kingdom_2_lady_5|Տիկին Նեշա
+trp_kingdom_2_lady_5_pl|Նեշա
+trp_kingdom_2_lady_6|Տիկին Տաբաթ
+trp_kingdom_2_lady_6_pl|Տաբաթ
+trp_kingdom_2_lady_7|Տիկին Պելաեկա
+trp_kingdom_2_lady_7_pl|Պելաեկա
+trp_kingdom_2_lady_8|Տիկին Հարիս
+trp_kingdom_2_lady_8_pl|Հարիս
+trp_kingdom_2_lady_9|Տիկին Վայեն
+trp_kingdom_2_lady_9_pl|Վայեն
+trp_kingdom_2_lady_10|Տիկին Յոակա
+trp_kingdom_2_lady_10_pl|Յոակա
+trp_kingdom_2_lady_11|Տիկին Տեջինա
+trp_kingdom_2_lady_11_pl|Տեջինա
+trp_kingdom_2_lady_12|Տիկին Օլեքսեյա
+trp_kingdom_2_lady_12_pl|Օլեքսեյա
+trp_kingdom_2_lady_13|Տիկին Մինթա
+trp_kingdom_2_lady_13_pl|Մինթա
+trp_kingdom_2_lady_14|Տիկին Ակիլինա
+trp_kingdom_2_lady_14_pl|Ակիլինա
+trp_kingdom_2_lady_15|Տիկին Սեպանա
+trp_kingdom_2_lady_15_pl|Սեպանա
+trp_kingdom_2_lady_16|Տիկին Իարինա
+trp_kingdom_2_lady_16_pl|Իարինա
+trp_kingdom_2_lady_17|Տիկին Սիհաւան
+trp_kingdom_2_lady_17_pl|Սիհաւան
+trp_kingdom_2_lady_18|Տիկին Երենչինա
+trp_kingdom_2_lady_18_pl|Երենչինա
+trp_kingdom_2_lady_19|Տիկին Տամար
+trp_kingdom_2_lady_19_pl|Տամար
+trp_kingdom_2_lady_20|Տիկին Վալկա
+trp_kingdom_2_lady_20_pl|Վալկա
+trp_kingdom_3_lady_1|Տիկին Բորգե
+trp_kingdom_3_lady_1_pl|Բորգե
+trp_kingdom_3_lady_2|Տիկին Տուան
+trp_kingdom_3_lady_2_pl|Տուան
+trp_kingdom_3_lady_3|Տիկին Մահրազ
+trp_kingdom_3_lady_3_pl|Մահրազ
+trp_kingdom_3_lady_4|Տիկին Այասու
+trp_kingdom_3_lady_4_pl|Այասու
+trp_kingdom_3_lady_5|Տիկին Ռաւին
+trp_kingdom_3_lady_5_pl|Ռաւին
+trp_kingdom_3_lady_6|Տիկին Ռուհա
+trp_kingdom_3_lady_6_pl|Ռուհա
+trp_kingdom_3_lady_7|Տիկին Չեդինա
+trp_kingdom_3_lady_7_pl|Չեդինա
+trp_kingdom_3_lady_8|Տիկին Կեֆրա
+trp_kingdom_3_lady_8_pl|Կեֆրա
+trp_kingdom_3_lady_9|Տիկին Նիրուազ
+trp_kingdom_3_lady_9_pl|Նիրուազ
+trp_kingdom_3_lady_10|Տիկին Դուլուա
+trp_kingdom_3_lady_10_pl|Դուլուա
+trp_kingdom_3_lady_11|Տիկին Սելիկ
+trp_kingdom_3_lady_11_pl|Սելիկ
+trp_kingdom_3_lady_12|Տիկին Թալաթա
+trp_kingdom_3_lady_12_pl|Թալաթա
+trp_kingdom_3_lady_13|Տիկին Եասրին
+trp_kingdom_3_lady_13_pl|Եասրին
+trp_kingdom_3_lady_14|Տիկին Նադհա
+trp_kingdom_3_lady_14_pl|Նադհա
+trp_kingdom_3_lady_15|Տիկին Զենուր
+trp_kingdom_3_lady_15_pl|Զենուր
+trp_kingdom_3_lady_16|Տիկին Արջիս
+trp_kingdom_3_lady_16_pl|Արջիս
+trp_kingdom_3_lady_17|Տիկին Ատջահան
+trp_kingdom_3_lady_17_pl|Ատջահան
+trp_kingdom_3_lady_18|Տիկին Կուտալա
+trp_kingdom_3_lady_18_pl|Կուտալա
+trp_kingdom_3_lady_19|Տիկին Հինդալ
+trp_kingdom_3_lady_19_pl|Հինդալ
+trp_kingdom_3_lady_20|Տիկին Մեչետ
+trp_kingdom_3_lady_20_pl|Մեչետ
+trp_kingdom_4_lady_1|Տիկին Յադեթ
+trp_kingdom_4_lady_1_pl|Յադեթ
+trp_kingdom_4_lady_2|Տիկին Միար
+trp_kingdom_4_lady_2_pl|Միար
+trp_kingdom_4_lady_3|Տիկին Դրիա
+trp_kingdom_4_lady_3_pl|Դրիա
+trp_kingdom_4_lady_4|Տիկին Գլունդե
+trp_kingdom_4_lady_4_pl|Գլունդե
+trp_kingdom_4_lady_5|Տիկին Լոեկա
+trp_kingdom_4_lady_5_pl|Լոեկա
+trp_kingdom_4_lady_6|Տիկին Բրին
+trp_kingdom_4_lady_6_pl|Բրին
+trp_kingdom_4_lady_7|Տիկին Էյր
+trp_kingdom_4_lady_7_pl|Էյր
+trp_knight_4_2b_daughter_1|Տիկին Թերա
+trp_knight_4_2b_daughter_1_pl|Թերա
+trp_kingdom_4_lady_9|Տիկին Հիլդ
+trp_kingdom_4_lady_9_pl|Հիլդ
+trp_knight_4_2c_wife_1|Տիկին Էնդեգրիդ
+trp_knight_4_2c_wife_1_pl|Էնդեգրիդ
+trp_kingdom_4_lady_11|Տիկին Հերյասա
+trp_kingdom_4_lady_11_pl|Հերյասա
+trp_knight_4_2c_daughter|Տիկին Սուիպուլ
+trp_knight_4_2c_daughter_pl|Սուիպուլ
+trp_knight_4_1b_wife|Տիկին Ինգունն
+trp_knight_4_1b_wife_pl|Ինգունն
+trp_kingdom_4_lady_14|Տիկին Կայտելի
+trp_kingdom_4_lady_14_pl|Կայտեղի
+trp_knight_4_1b_daughter|Տիկին Էյլիֆ
+trp_knight_4_1b_daughter_pl|Էյլիֆ
+trp_knight_4_2b_daughter_2|Տիկին Գուդրուն
+trp_knight_4_2b_daughter_2_pl|Գուդրուն
+trp_kingdom_4_lady_17|Տիկին Բերգիտ
+trp_kingdom_4_lady_17_pl|Բերգիտ
+trp_knight_4_2c_wife_2|Տիկին Այսա
+trp_knight_4_2c_wife_2_pl|Այսա
+trp_knight_4_1c_daughter|Տիկին Ալֆրուն
+trp_knight_4_1c_daughter_pl|Ալֆրուն
+trp_kingdom_4_lady_20|Տիկին Աֆրիդ
+trp_kingdom_4_lady_20_pl|Աֆրիդ
+trp_kingdom_5_lady_1|Տիկին Բրինա
+trp_kingdom_5_lady_1_pl|Բրինա
+trp_kingdom_5_lady_2|Տիկին Ալիենա
+trp_kingdom_5_lady_2_pl|Ալիենա
+trp_kingdom_5_lady_3|Տիկին Անեթ
+trp_kingdom_5_lady_3_pl|Անեթ
+trp_kingdom_5_lady_4|Տիկին Ռեադա
+trp_kingdom_5_lady_4_pl|Ռեադա
+trp_kingdom_5_5_wife|Տիկին Սարատեն
+trp_kingdom_5_5_wife_pl|Սարատեն
+trp_kingdom_5_2b_wife_1|Տիկին Բօթեյա
+trp_kingdom_5_2b_wife_1_pl|Բօթեյա
+trp_kingdom_5_1c_daughter_1|Տիկին Էլեանդրա
+trp_kingdom_5_1c_daughter_1_pl|Էլեանդրա
+trp_kingdom_5_2c_daughter_1|Տիկին Մերացեդ
+trp_kingdom_5_2c_daughter_1_pl|Մերացեդ
+trp_kingdom_5_1c_wife_1|Տիկին Ադելիսա
+trp_kingdom_5_1c_wife_1_pl|Ադելիսա
+trp_kingdom_5_2c_wife_1|Տիկին Կալանտինա
+trp_kingdom_5_2c_wife_1_pl|Կալանտինա
+trp_kingdom_5_1c_daughter_2|Տիկին Ֆորբեսա
+trp_kingdom_5_1c_daughter_2_pl|Ֆորբեսա
+trp_kingdom_5_2c_daughter_2|Տիկին Կլօդորա
+trp_kingdom_5_2c_daughter_2_pl|Կլօդորա
+trp_kingdom_5_1b_wife|Տիկին Անաիս
+trp_kingdom_5_1b_wife_pl|Անաիս
+trp_kingdom_5_2b_wife_2|Տիկին Միրեյա
+trp_kingdom_5_2b_wife_2_pl|Միրեյա
+trp_kingdom_5_1c_daughter_3|Տիկին Ագասիա
+trp_kingdom_5_1c_daughter_3_pl|Ագասիա
+trp_kingdom_5_lady_16|Տիկին Գենեյաւա
+trp_kingdom_5_lady_16_pl|Գենեյաւա
+trp_kingdom_5_1c_wife_2|Տիկին Գուենաել
+trp_kingdom_5_1c_wife_2_pl|Գուենաել
+trp_kingdom_5_2c_wife_2|Տիկին Իսուեթ
+trp_kingdom_5_2c_wife_2_pl|Իսուեթ
+trp_kingdom_5_1c_daughter_4|Տիկին Էլլիան
+trp_kingdom_5_1c_daughter_4_pl|Էլլիան
+trp_kingdom_5_lady_20|Տիկին Տիմեթի
+trp_kingdom_5_lady_20_pl|Տիմեթի
+trp_kingdom_6_lady_1|Տիկին Ռայմա
+trp_kingdom_6_lady_1_pl|Ռայմա
+trp_kingdom_6_lady_2|Տիկին Թանայխա
+trp_kingdom_6_lady_2_pl|Թանայխա
+trp_kingdom_6_lady_3|Տիկին Սուլահա
+trp_kingdom_6_lady_3_pl|Սուլահա
+trp_kingdom_6_lady_4|Տիկին Շաթա
+trp_kingdom_6_lady_4_pl|Շաթա
+trp_kingdom_6_lady_5|Տիկին Բօթան
+trp_kingdom_6_lady_5_pl|Բօթան
+trp_kingdom_6_lady_6|Տիկին Մահայլ
+trp_kingdom_6_lady_6_pl|Մահայլ
+trp_kingdom_6_lady_7|Տիկին Իսնա
+trp_kingdom_6_lady_7_pl|Իսնա
+trp_kingdom_6_lady_8|Տիկին Սիյաֆան
+trp_kingdom_6_lady_8_pl|Սիյաֆան
+trp_kingdom_6_lady_9|Տիկին Իֆար
+trp_kingdom_6_lady_9_pl|Իֆար
+trp_kingdom_6_lady_10|Տիկին Յասմին
+trp_kingdom_6_lady_10_pl|Յասմին
+trp_kingdom_6_lady_11|Տիկին Դուլա
+trp_kingdom_6_lady_11_pl|Դուլա
+trp_kingdom_6_lady_12|Տիկին Ռուուա
+trp_kingdom_6_lady_12_pl|Ռուուա
+trp_kingdom_6_lady_13|Տիկին Լուկա
+trp_kingdom_6_lady_13_pl|Լուկա
+trp_kingdom_6_lady_14|Տիկին Զանդինա
+trp_kingdom_6_lady_14_pl|Զանդինա
+trp_kingdom_6_lady_15|Տիկին Լուլեայ
+trp_kingdom_6_lady_15_pl|Լուլեայ
+trp_kingdom_6_lady_16|Տիկին Զահարա
+trp_kingdom_6_lady_16_pl|Զահարա
+trp_kingdom_6_lady_17|Տիկին Սաֆիեայ
+trp_kingdom_6_lady_17_pl|Սաֆիեայ
+trp_kingdom_6_lady_18|Տիկին Խալիսա
+trp_kingdom_6_lady_18_pl|Խալիսա
+trp_kingdom_6_lady_19|Տիկին Յանաբ
+trp_kingdom_6_lady_19_pl|Յանաբ
+trp_kingdom_6_lady_20|Տիկին Սուր
+trp_kingdom_6_lady_20_pl|Սուր
+trp_town_1_arena_master|Վերակացու մրցութեանց
+trp_town_2_arena_master|Վերակացու մրցութեանց
+trp_town_3_arena_master|Վերակացու մրցութեանց
+trp_town_4_arena_master|Վերակացու մրցութեանց
+trp_town_5_arena_master|Վերակացու մրցութեանց
+trp_town_6_arena_master|Վերակացու մրցութեանց
+trp_town_7_arena_master|Վերակացու մրցութեանց
+trp_town_8_arena_master|Վերակացու մրցութեանց
+trp_town_9_arena_master|Վերակացու մրցութեանց
+trp_town_10_arena_master|Վերակացու մրցութեանց
+trp_town_11_arena_master|Վերակացու մրցութեանց
+trp_town_12_arena_master|Վերակացու մրցութեանց
+trp_town_13_arena_master|Վերակացու մրցութեանց
+trp_town_14_arena_master|Վերակացու մրցութեանց
+trp_town_15_arena_master|Վերակացու մրցութեանց
+trp_town_16_arena_master|Վերակացու մրցութեանց
+trp_town_17_arena_master|Վերակացու մրցութեանց
+trp_town_18_arena_master|Վերակացու մրցութեանց
+trp_town_19_arena_master|Վերակացու մրցութեանց
+trp_town_20_arena_master|Վերակացու մրցութեանց
+trp_town_21_arena_master|Վերակացու մրցութեանց
+trp_town_22_arena_master|Վերակացու մրցութեանց
+trp_town_1_armorer|Ուրումուդա
+trp_town_2_armorer|Ալին
+trp_town_3_armorer|Գանզո
+trp_town_4_armorer|Բերանզ
+trp_town_5_armorer|Միրշօ
+trp_town_6_armorer|Ստամար
+trp_town_7_armorer|Ռեգոս
+trp_town_8_armorer|Մելտոր
+trp_town_9_armorer|Իմիրզա
+trp_town_10_armorer|Ռիմուսկ
+trp_town_11_armorer|Տալբար
+trp_town_12_armorer|Կրամուկ
+trp_town_13_armorer|Շօ
+trp_town_14_armorer|Զելկ
+trp_town_15_armorer|Զրահագործ
+trp_town_16_armorer|Զրահագործ
+trp_town_17_armorer|Զրահագործ
+trp_town_18_armorer|Զրահագործ
+trp_town_19_armorer|Զրահագործ
+trp_town_20_armorer|Զրահագործ
+trp_town_21_armorer|Զրահագործ
+trp_town_22_armorer|Զրահագործ
+trp_town_1_weaponsmith|Ստրուգա
+trp_town_2_weaponsmith|Սեբուլա
+trp_town_3_weaponsmith|Գուտլանս
+trp_town_4_weaponsmith|Խաւել
+trp_town_5_weaponsmith|Ռայիս
+trp_town_6_weaponsmith|Պլայիս
+trp_town_7_weaponsmith|Բելգարու
+trp_town_8_weaponsmith|Նորսկ
+trp_town_9_weaponsmith|Դորու
+trp_town_10_weaponsmith|Նելագ
+trp_town_11_weaponsmith|Վլան
+trp_town_12_weaponsmith|Մլեզա
+trp_town_13_weaponsmith|Դիբուս
+trp_town_14_weaponsmith|Կրահասկ
+trp_town_15_weaponsmith|Զինավաճառ
+trp_town_16_weaponsmith|Զինավաճառ
+trp_town_17_weaponsmith|Զինավաճառ
+trp_town_18_weaponsmith|Զինավաճառ
+trp_town_19_weaponsmith|Զինավաճառ
+trp_town_20_weaponsmith|Զինավաճառ
+trp_town_21_weaponsmith|Զինավաճառ
+trp_town_22_weaponsmith|Զինավաճառ
+trp_town_1_tavernkeeper|Պանդոկապետ
+trp_town_2_tavernkeeper|Պանդոկապետ
+trp_town_3_tavernkeeper|Պանդոկապետ
+trp_town_4_tavernkeeper|Պանդոկապետ
+trp_town_5_tavernkeeper|Պանդոկապետ
+trp_town_6_tavernkeeper|Պանդոկապետ
+trp_town_7_tavernkeeper|Պանդոկապետ
+trp_town_8_tavernkeeper|Պանդոկապետ
+trp_town_9_tavernkeeper|Պանդոկապետ
+trp_town_10_tavernkeeper|Պանդոկապետ
+trp_town_11_tavernkeeper|Պանդոկապետ
+trp_town_12_tavernkeeper|Պանդոկապետ
+trp_town_13_tavernkeeper|Պանդոկապետ
+trp_town_14_tavernkeeper|Պանդոկապետ
+trp_town_15_tavernkeeper|Պանդոկապետ
+trp_town_16_tavernkeeper|Պանդոկապետ
+trp_town_17_tavernkeeper|Պանդոկապետ
+trp_town_18_tavernkeeper|Պանդոկապետ
+trp_town_19_tavernkeeper|Պանդոկապետ
+trp_town_20_tavernkeeper|Պանդոկապետ
+trp_town_21_tavernkeeper|Պանդոկապետ
+trp_town_22_tavernkeeper|Պանդոկապետ
+trp_town_1_merchant|Վաճառական
+trp_town_2_merchant|Վաճառական
+trp_town_3_merchant|Վաճառական
+trp_town_4_merchant|Վաճառական
+trp_town_5_merchant|Վաճառական
+trp_town_6_merchant|Վաճառական
+trp_town_7_merchant|Վաճառական
+trp_town_8_merchant|Վաճառական
+trp_town_9_merchant|Վաճառական
+trp_town_10_merchant|Վաճառական
+trp_town_11_merchant|Վաճառական
+trp_town_12_merchant|Վաճառական
+trp_town_13_merchant|Վաճառական
+trp_town_14_merchant|Վաճառական
+trp_town_15_merchant|Վաճառական
+trp_town_16_merchant|Վաճառական
+trp_town_17_merchant|Վաճառական
+trp_town_18_merchant|Վաճառական
+trp_town_19_merchant|Վաճառական
+trp_town_20_merchant|Վաճառական
+trp_town_21_merchant|Վաճառական
+trp_town_22_merchant|Վաճառական
+trp_salt_mine_merchant|Աղավաճառ
+trp_salt_mine_merchant_pl|Աղավաճառք
+trp_town_1_horse_merchant|Ձիավաճառ
+trp_town_2_horse_merchant|Ձիավաճառ
+trp_town_3_horse_merchant|Ձիավաճառ
+trp_town_4_horse_merchant|Ձիավաճառ
+trp_town_5_horse_merchant|Ձիավաճառ
+trp_town_6_horse_merchant|Ձիավաճառ
+trp_town_7_horse_merchant|Ձիավաճառ
+trp_town_8_horse_merchant|Ձիավաճառ
+trp_town_9_horse_merchant|Ձիավաճառ
+trp_town_10_horse_merchant|Ձիավաճառ
+trp_town_11_horse_merchant|Ձիավաճառ
+trp_town_12_horse_merchant|Ձիավաճառ
+trp_town_13_horse_merchant|Ձիավաճառ
+trp_town_14_horse_merchant|Ձիավաճառ
+trp_town_15_horse_merchant|Ձիավաճառ
+trp_town_16_horse_merchant|Ձիավաճառ
+trp_town_17_horse_merchant|Ձիավաճառ
+trp_town_18_horse_merchant|Ձիավաճառ
+trp_town_19_horse_merchant|Ձիավաճառ
+trp_town_20_horse_merchant|Ձիավաճառ
+trp_town_21_horse_merchant|Ձիավաճառ
+trp_town_22_horse_merchant|Ձիավաճառ
+trp_town_1_mayor|Գաւառապետ
+trp_town_2_mayor|Գաւառապետ
+trp_town_3_mayor|Գաւառապետ
+trp_town_4_mayor|Գաւառապետ
+trp_town_5_mayor|Գաւառապետ
+trp_town_6_mayor|Գաւառապետ
+trp_town_7_mayor|Գաւառապետ
+trp_town_8_mayor|Գաւառապետ
+trp_town_9_mayor|Գաւառապետ
+trp_town_10_mayor|Գաւառապետ
+trp_town_11_mayor|Գաւառապետ
+trp_town_12_mayor|Գաւառապետ
+trp_town_13_mayor|Գաւառապետ
+trp_town_14_mayor|Գաւառապետ
+trp_town_15_mayor|Գաւառապետ
+trp_town_16_mayor|Գաւառապետ
+trp_town_17_mayor|Գաւառապետ
+trp_town_18_mayor|Գաւառապետ
+trp_town_19_mayor|Գաւառապետ
+trp_town_20_mayor|Գաւառապետ
+trp_town_21_mayor|Գաւառապետ
+trp_town_22_mayor|Գաւառապետ
+trp_village_1_elder|Գեղջաւագ
+trp_village_2_elder|Գեղջաւագ
+trp_village_3_elder|Գեղջաւագ
+trp_village_4_elder|Գեղջաւագ
+trp_village_5_elder|Գեղջաւագ
+trp_village_6_elder|Գեղջաւագ
+trp_village_7_elder|Գեղջաւագ
+trp_village_8_elder|Գեղջաւագ
+trp_village_9_elder|Գեղջաւագ
+trp_village_10_elder|Գեղջաւագ
+trp_village_11_elder|Գեղջաւագ
+trp_village_12_elder|Գեղջաւագ
+trp_village_13_elder|Գեղջաւագ
+trp_village_14_elder|Գեղջաւագ
+trp_village_15_elder|Գեղջաւագ
+trp_village_16_elder|Գեղջաւագ
+trp_village_17_elder|Գեղջաւագ
+trp_village_18_elder|Գեղջաւագ
+trp_village_19_elder|Գեղջաւագ
+trp_village_20_elder|Գեղջաւագ
+trp_village_21_elder|Գեղջաւագ
+trp_village_22_elder|Գեղջաւագ
+trp_village_23_elder|Գեղջաւագ
+trp_village_24_elder|Գեղջաւագ
+trp_village_25_elder|Գեղջաւագ
+trp_village_26_elder|Գեղջաւագ
+trp_village_27_elder|Գեղջաւագ
+trp_village_28_elder|Գեղջաւագ
+trp_village_29_elder|Գեղջաւագ
+trp_village_30_elder|Գեղջաւագ
+trp_village_31_elder|Գեղջաւագ
+trp_village_32_elder|Գեղջաւագ
+trp_village_33_elder|Գեղջաւագ
+trp_village_34_elder|Գեղջաւագ
+trp_village_35_elder|Գեղջաւագ
+trp_village_36_elder|Գեղջաւագ
+trp_village_37_elder|Գեղջաւագ
+trp_village_38_elder|Գեղջաւագ
+trp_village_39_elder|Գեղջաւագ
+trp_village_40_elder|Գեղջաւագ
+trp_village_41_elder|Գեղջաւագ
+trp_village_42_elder|Գեղջաւագ
+trp_village_43_elder|Գեղջաւագ
+trp_village_44_elder|Գեղջաւագ
+trp_village_45_elder|Գեղջաւագ
+trp_village_46_elder|Գեղջաւագ
+trp_village_47_elder|Գեղջաւագ
+trp_village_48_elder|Գեղջաւագ
+trp_village_49_elder|Գեղջաւագ
+trp_village_50_elder|Գեղջաւագ
+trp_village_51_elder|Գեղջաւագ
+trp_village_52_elder|Գեղջաւագ
+trp_village_53_elder|Գեղջաւագ
+trp_village_54_elder|Գեղջաւագ
+trp_village_55_elder|Գեղջաւագ
+trp_village_56_elder|Գեղջաւագ
+trp_village_57_elder|Գեղջաւագ
+trp_village_58_elder|Գեղջաւագ
+trp_village_59_elder|Գեղջաւագ
+trp_village_60_elder|Գեղջաւագ
+trp_village_61_elder|Գեղջաւագ
+trp_village_62_elder|Գեղջաւագ
+trp_village_63_elder|Գեղջաւագ
+trp_village_64_elder|Գեղջաւագ
+trp_village_65_elder|Գեղջաւագ
+trp_village_66_elder|Գեղջաւագ
+trp_village_67_elder|Գեղջաւագ
+trp_village_68_elder|Գեղջաւագ
+trp_village_69_elder|Գեղջաւագ
+trp_village_70_elder|Գեղջաւագ
+trp_village_71_elder|Գեղջաւագ
+trp_village_72_elder|Գեղջաւագ
+trp_village_73_elder|Գեղջաւագ
+trp_village_74_elder|Գեղջաւագ
+trp_village_75_elder|Գեղջաւագ
+trp_village_76_elder|Գեղջաւագ
+trp_village_77_elder|Գեղջաւագ
+trp_village_78_elder|Գեղջաւագ
+trp_village_79_elder|Գեղջաւագ
+trp_village_80_elder|Գեղջաւագ
+trp_village_81_elder|Գեղջաւագ
+trp_village_82_elder|Գեղջաւագ
+trp_village_83_elder|Գեղջաւագ
+trp_village_84_elder|Գեղջաւագ
+trp_village_85_elder|Գեղջաւագ
+trp_village_86_elder|Գեղջաւագ
+trp_village_87_elder|Գեղջաւագ
+trp_village_88_elder|Գեղջաւագ
+trp_village_89_elder|Գեղջաւագ
+trp_village_90_elder|Գեղջաւագ
+trp_village_91_elder|Գեղջաւագ
+trp_village_92_elder|Գեղջաւագ
+trp_village_93_elder|Գեղջաւագ
+trp_village_94_elder|Գեղջաւագ
+trp_village_95_elder|Գեղջաւագ
+trp_village_96_elder|Գեղջաւագ
+trp_village_97_elder|Գեղջաւագ
+trp_village_98_elder|Գեղջաւագ
+trp_village_99_elder|Գեղջաւագ
+trp_village_100_elder|Գեղջաւագ
+trp_village_101_elder|Գեղջաւագ
+trp_village_102_elder|Գեղջաւագ
+trp_village_103_elder|Գեղջաւագ
+trp_village_104_elder|Գեղջաւագ
+trp_village_105_elder|Գեղջաւագ
+trp_village_106_elder|Գեղջաւագ
+trp_village_107_elder|Գեղջաւագ
+trp_village_108_elder|Գեղջաւագ
+trp_village_109_elder|Գեղջաւագ
+trp_village_110_elder|Գեղջաւագ
+trp_merchants_end|վախճան վաճառականաց
+trp_merchants_end_pl|վախճան վաճառականաց
+trp_local_merchant|Վաճառական տեղական
+trp_local_merchant_pl|Վաճառականք տեղականք
+trp_tax_rebel|Գեղջուկ ապստամբ
+trp_tax_rebel_pl|Գեղջուկք ապստամբք
+trp_trainee_peasant|Գեղջուկ
+trp_trainee_peasant_pl|Գեղջուկք
+trp_fugitive|Այր խռովեալ
+trp_fugitive_pl|Արք խռովեալք
+trp_belligerent_drunk|Արբեցող կռուազան
+trp_belligerent_drunk_pl|Արբեցողք կռուազանք
+trp_hired_assassin|Վարձկան մարդասպան
+trp_hired_assassin_pl|Վարձկանք մարդասպանք
+trp_fight_promoter|Կազմակերպիչ մարտից
+trp_fight_promoter_pl|Կազմակերպիչք մարտից
+trp_spy|Լրտես
+trp_spy_pl|Լրտեսք
+trp_spy_partner|Գործակից լրտեսի
+trp_spy_partner_pl|Գործակիցք լրտեսաց
+trp_nurse_for_lady|Դայեակ տիկնոջ
+trp_nurse_for_lady_pl|Դայեակք տիկնանց
+trp_temporary_minister|Առժամանակեայ պաշտօնեայ
+trp_temporary_minister_pl|Առժամանակեայ պաշտօնեայք
+trp_swadian_crossbowman_multiplayer_ai|Աղեղնասարքաւոր սուադեաց
+trp_swadian_crossbowman_multiplayer_ai_pl|Աղեղնասարքաւորք սուադեաց
+trp_swadian_infantry_multiplayer_ai|Հետեւակազօր սուադեաց
+trp_swadian_infantry_multiplayer_ai_pl|Հետեւակազօրք սուադեաց
+trp_swadian_man_at_arms_multiplayer_ai|Սպառազէն հեծեալ սուադեաց
+trp_swadian_man_at_arms_multiplayer_ai_pl|Սպառազէնք հեծեալք սուադեաց
+trp_vaegir_archer_multiplayer_ai|Աղեղնաւոր վէգիրաց
+trp_vaegir_archer_multiplayer_ai_pl|Աղեղնաւորք վէգիրաց
+trp_vaegir_spearman_multiplayer_ai|Նիզակակիր վէգիրաց
+trp_vaegir_spearman_multiplayer_ai_pl|Նիզակակիրք վէգիրաց
+trp_vaegir_horseman_multiplayer_ai|Հեծեալ վէգիրաց
+trp_vaegir_horseman_multiplayer_ai_pl|Հեծեալք վէգիրաց
+trp_khergit_dismounted_lancer_multiplayer_ai|Հետեւակ նիզակակիր քերգիթաց
+trp_khergit_dismounted_lancer_multiplayer_ai_pl|Հետեւակք նիզակակիրք քերգիթաց
+trp_khergit_veteran_horse_archer_multiplayer_ai|Հեծեալ աղեղնաւոր քերգիթաց
+trp_khergit_veteran_horse_archer_multiplayer_ai_pl|Հեծեալք աղեղնաւորք քերգիթաց
+trp_khergit_lancer_multiplayer_ai|Նիզակակիր քերգիթաց
+trp_khergit_lancer_multiplayer_ai_pl|Նիզակակիրք քերգիթաց
+trp_nord_veteran_multiplayer_ai|Հետեւակ նորդաց
+trp_nord_veteran_multiplayer_ai_pl|Հետեւակք նորդաց
+trp_nord_scout_multiplayer_ai|Հեծեալ նորդաց
+trp_nord_scout_multiplayer_ai_pl|Հեծեալք նորդաց
+trp_nord_archer_multiplayer_ai|Աղեղնաւոր նորդաց
+trp_nord_archer_multiplayer_ai_pl|Աղեղնաւորք նորդաց
+trp_rhodok_veteran_crossbowman_multiplayer_ai|Աղեղնասարքաւոր ռոդոկաց
+trp_rhodok_veteran_crossbowman_multiplayer_ai_pl|Աղեղնասարքաւորք ռոդոկաց
+trp_rhodok_veteran_spearman_multiplayer_ai|Նիզակակիր ռոդոկաց
+trp_rhodok_veteran_spearman_multiplayer_ai_pl|Նիզակակիրք ռոդոկաց
+trp_rhodok_scout_multiplayer_ai|Հեծեալ ռոդոկաց
+trp_rhodok_scout_multiplayer_ai_pl|Հեծեալք ռոդոկաց
+trp_sarranid_infantry_multiplayer_ai|Հետեւակ սարրանեաց
+trp_sarranid_infantry_multiplayer_ai_pl|Հետեւակք սարրանեաց
+trp_sarranid_archer_multiplayer_ai|Աղեղնաւոր սարրանեաց
+trp_sarranid_archer_multiplayer_ai_pl|Աղեղնաւորք սարրանեաց
+trp_sarranid_horseman_multiplayer_ai|Հեծեալ սարրանեաց
+trp_sarranid_horseman_multiplayer_ai_pl|Հեծեալք սարրանեաց
+trp_swadian_crossbowman_multiplayer|Աղեղնասարքաւոր սուադեաց
+trp_swadian_crossbowman_multiplayer_pl|Աղեղնասարքաւորք սուադեաց
+trp_swadian_infantry_multiplayer|Հետեւակ սուադեաց
+trp_swadian_infantry_multiplayer_pl|Հետեւակք սուադեաց
+trp_swadian_man_at_arms_multiplayer|Սպառազէն հեծեալ սուադեաց
+trp_swadian_man_at_arms_multiplayer_pl|Սպառազէնք հեծեալք սուադեաց
+trp_vaegir_archer_multiplayer|Աղեղնաւոր վէգիրաց
+trp_vaegir_archer_multiplayer_pl|Աղեղնաւորք վէգիրաց
+trp_vaegir_spearman_multiplayer|Նիզակակիր վէգիրաց
+trp_vaegir_spearman_multiplayer_pl|Նիզակակիրք վէգիրաց
+trp_vaegir_horseman_multiplayer|Հեծեալ վէգիրաց
+trp_vaegir_horseman_multiplayer_pl|Հեծեալք վէգիրաց
+trp_khergit_veteran_horse_archer_multiplayer|Հեծեալ աղեղնաւոր քերգիթաց
+trp_khergit_veteran_horse_archer_multiplayer_pl|Հեծեալք աղեղնաւորք քերգիթաց
+trp_khergit_infantry_multiplayer|Խերգիթ հետեւակ (ՄՊ)
+trp_khergit_infantry_multiplayer_pl|Խերգիթ հետեւակք (ՄՊ)
+trp_khergit_lancer_multiplayer|Նիզակակիր քերգիթաց
+trp_khergit_lancer_multiplayer_pl|Նիզակակիրք քերգիթաց
+trp_nord_archer_multiplayer|Աղեղնաւոր նորդաց
+trp_nord_archer_multiplayer_pl|Աղեղնաւորք նորդաց
+trp_nord_veteran_multiplayer|Հետեւակ նորդաց
+trp_nord_veteran_multiplayer_pl|Հետեւակք նորդաց
+trp_nord_scout_multiplayer|Հեծեալ նորդաց
+trp_nord_scout_multiplayer_pl|Հեծեալք նորդաց
+trp_rhodok_veteran_crossbowman_multiplayer|Աղեղնասարքաւոր ռոդոկաց
+trp_rhodok_veteran_crossbowman_multiplayer_pl|Աղեղնասարքաւորք ռոդոկաց
+trp_rhodok_sergeant_multiplayer|Տասնապետ ռոդոկաց
+trp_rhodok_sergeant_multiplayer_pl|Տասնապետք ռոդոկաց
+trp_rhodok_horseman_multiplayer|Հեծեալ ռոդոկաց
+trp_rhodok_horseman_multiplayer_pl|Հեծեալք ռոդոկաց
+trp_sarranid_archer_multiplayer|Աղեղնաւոր սարրանեաց
+trp_sarranid_archer_multiplayer_pl|Աղեղնաւորք սարրանեաց
+trp_sarranid_footman_multiplayer|Հետեւակ սարրանեաց
+trp_sarranid_footman_multiplayer_pl|Հետեւակք սարրանեաց
+trp_sarranid_mamluke_multiplayer|Մամլուք սարրանեաց
+trp_sarranid_mamluke_multiplayer_pl|Մամլուքք սարրանեաց
+trp_quick_battle_troop_1|Ռոդրիգո դը Բրագանսա
+trp_quick_battle_troop_1_pl|Ռոդրիգո դը Բրագանսա
+trp_quick_battle_troop_2|Ուսիատրա
+trp_quick_battle_troop_2_pl|Ուսիատրա
+trp_quick_battle_troop_3|Հեգեն
+trp_quick_battle_troop_3_pl|Հեգեն
+trp_quick_battle_troop_4|Կոնրադ
+trp_quick_battle_troop_4_pl|Կոնրադ
+trp_quick_battle_troop_5|Սուերրե
+trp_quick_battle_troop_5_pl|Սուերրե
+trp_quick_battle_troop_6|Բորիսլաւ
+trp_quick_battle_troop_6_pl|Բորիսլաւ
+trp_quick_battle_troop_7|Ստաւրոս
+trp_quick_battle_troop_7_pl|Ստաւրոս
+trp_quick_battle_troop_8|Գամարա
+trp_quick_battle_troop_8_pl|Գամարա
+trp_quick_battle_troop_9|Այթրոդ
+trp_quick_battle_troop_9_pl|Այթրոդ
+trp_quick_battle_troop_10|Զայիրա
+trp_quick_battle_troop_10_pl|Զայիրա
+trp_quick_battle_troop_11|Արգո Սենդնար
+trp_quick_battle_troop_11_pl|Արգո Սենդնար
+trp_tutorial_fighter_1|Մարտիկ նորագիր
+trp_tutorial_fighter_1_pl|Մարտիկք
+trp_tutorial_fighter_2|Մարտիկ նորագիր
+trp_tutorial_fighter_2_pl|Մարտիկք
+trp_tutorial_fighter_3|Մարտիկ
+trp_tutorial_fighter_3_pl|Մարտիկք
+trp_tutorial_fighter_4|Մարտիկ փորձառու
+trp_tutorial_fighter_4_pl|Մարտիկք
+trp_tutorial_archer_1|Աղեղնաւոր
+trp_tutorial_archer_1_pl|Աղեղնաւորք
+trp_tutorial_master_archer|Վարպետ աղեղնաւոր
+trp_tutorial_master_archer_pl|Վարպետք աղեղնաւորք
+trp_tutorial_rider_1|Հեծեալ
+trp_tutorial_rider_2|Հեծեալ աղեղնաւոր
+trp_tutorial_master_horseman|Վարպետ հեծելազօրի
+trp_tutorial_master_horseman_pl|Վարպետք հեծելազօրի
+trp_swadian_merchant|Վաճառական Պրաւենի
+trp_vaegir_merchant|Վաճառական Ռէյուադինի
+trp_khergit_merchant|Վաճառական Տուլգայի
+trp_nord_merchant|Վաճառական Սարգոթի
+trp_rhodok_merchant|Վաճառական Յելկալայի
+trp_sarranid_merchant|Վաճառական Շարիզի
+trp_startup_merchants_end|վախճան վաճառականաց
+trp_startup_merchants_end_pl|վախճան վաճառականաց
+trp_sea_raider_leader|Պետ ծովահեն յելուզակաց
+trp_sea_raider_leader_pl|Պետ ծովահեն յելուզակաց
+trp_looter_leader|Աւարառու
+trp_looter_leader_pl|Աւարառու
+trp_bandit_leaders_end|վախճան պետաց յելուզակաց
+trp_bandit_leaders_end_pl|վախճան պետաց յելուզակաց
+trp_relative_of_merchant|Եղբայր վաճառականի
+trp_relative_of_merchants_end|վախճան ազգականաց վաճառականաց
+trp_relative_of_merchants_end_pl|վախճան ազգականաց վաճառականաց
+trp_knight_4_2b_daughter_pl|Գուդրուն
+trp_kingdom_5_2c_wife_pl|Իսուեթ
+trp_kingdom_5_2c_daughter_pl|Կլօդորա
+trp_town_21_master_craftsman|Վարպետ ձիթագործ
+trp_kingdom_5_2c_daughter|Տիկին Կլօդորա
+trp_kingdom_5_2b_wife|Տիկին Միրեյա
+trp_kingdom_5_1c_daughter|Տիկին Էլլիան
+trp_knight_4_2b_daughter|Տիկին Գուդրուն
+trp_kingdom_5_2b_wife_pl|Միրեյա
+trp_kingdom_5_1c_daughter_pl|Էլլիան
+trp_town_10_master_craftsman|Վարպետ գինեգործ
+trp_knight_4_2c_wife_pl|Այսա
+trp_town_17_master_craftsman|Վարպետ ներկարար
+trp_town_8_master_craftsman|Վարպետ կաշեգործ
+trp_knight_4_2c_wife|Տիկին Այսա
+trp_town_11_master_craftsman|Վարպետ դարբին
+trp_kingdom_5_1c_wife_pl|Գուենաել
+trp_town_4_master_craftsman|Վարպետ ներկարար
+trp_nurse|Դայեակ
+trp_town_20_master_craftsman|Վարպետ գինեգործ
+trp_kingdom_5_2c_wife|Տիկին Իսուեթ
+trp_kingdom_5_1c_wife|Տիկին Գուենաել

@@ -1,0 +1,789 @@
+﻿ui_music_volume|Երաժշտութիւն:
+ui_sound_volume|Ձայն:
+ui_mouse_sensitivity|Զգայունութիւն մկան:
+ui_invert_mouse_y_axis|Շրջել զառանցքն Y մկան:
+ui_enabled|Միացեալ
+ui_disabled|Խափանեալ
+ui_damage_to_player|Վնաս խաղացողին:
+ui_reduced_to_1_over_4_easiest|Նուազեալ առ 1/4 (Դիւրագոյն)
+ui_reduced_to_1_over_2_easy|Նուազեալ առ 1/2 (Դիւրին)
+ui_damage_to_friends|Վնաս բարեկամաց:
+ui_reduced_to_1_over_2_easiest|Նուազեալ առ 1/2 (Դիւրագոյն)
+ui_reduced_to_3_over_4_easy|Նուազեալ առ 3/4 (Դիւրին)
+ui_normal|Բնական
+ui_combat_ai|Բանականութիւն մարտի:
+ui_combat_speed|Արագութիւն մարտի:
+ui_good|Բարի
+ui_average_caps|Միջին
+ui_poor|Տկար
+ui_faster|Արագագոյն
+ui_slower|Դանդաղագոյն
+ui_control_block_direction|Ուղղութիւն պաշտպանութեան:
+ui_automatic_recommended|Ինքնաշարժ (Առաջարկեալ)
+ui_manual_easy|Ձեռամբ (Դիւրին)
+ui_manual_hard|Ձեռամբ (Դժուար)
+ui_by_mouse_movement|Ըստ շարժման մկնիկի
+ui_control_attack_direction|Ուղղութիւն յարձակման:
+ui_lance_control|Կառավարումն նիզակի:
+ui_by_relative_enemy_position|Ըստ դիրքի թշնամւոյ
+ui_by_inverse_mouse_movement|Ըստ հակառակ շարժման մկնիկի
+ui_battle_size|Չափ մարտի:
+ui_show_attack_direction|Ցուցանել զուղղութիւն յարձակման
+ui_show_targeting_reticule|Ցուցանել զնշանակէտ
+ui_show_names_of_friendly_troops|Ցուցանել զանուանս բարեկամ զօրաց
+ui_report_damage|Տեղեկութիւն վնասու
+ui_report_shot_difficulty|Տեղեկութիւն դժուարութեան հարուածոյ
+ui_difficulty_rating_percentage|Չափ դժուարութեան: %s%%
+ui_controls|Կառավարումն
+ui_video_options|Ընտրանիք տեսանիւթոյ
+ui_done|Կատարեալ
+ui_factions|Խմբակցութիւնք
+ui_item_itemname|Իր: %s
+ui_prop_propname|Առարկայ: %s
+ui_unknown_unknownname|Անծանօթ: %s
+ui_entry_point_entrypointname|Մուտք: %s
+ui_passage_menu_item_passagename|Անցք: %s
+ui_plant_plantname|Բոյս: %s
+ui_export_file_for_character_playername_already_exists_overwrite_it|Նիւթ արտահանման վասն %s արդէն գոյ: Վերագրե՞լ զայն:
+ui_yes|Այո
+ui_no|Ոչ
+ui_set_save_file_name|Դնել զանուն պահպանման նիւթոյ
+ui_enter_new_name|Մուտ նոր անուն
+ui_export_character|Արտահանել զանձ
+ui_import_character|Ներածել զկերպար
+ui_character_playername_exported_successfully|Կերպարն %s արտածեցաւ յաջողութեամբ:
+ui_character_playername_imported_successfully|Կերպարն %s ներածեցաւ յաջողութեամբ:
+ui_unable_to_open_import_file|Ոչ կարեմ բանալ զֆայլ ներածման:
+ui_are_you_sure_you_want_to_import_the_character|Վստա՞հ էք, զի կամիք ներածել զկերպարն:
+ui_unable_to_find_character_import_file|Ֆայլ ներածման ոչ գտանի:
+ui_mount_and_blade_is_running_in_trial_mode_please_buy_the_game_for_importing_a_character|At&Kիlիճ խաղայ փորձնական կերպիւ: Ներածել զկերպար պարտ է գնել զխաղն:
+ui_change_skin|Մաշկ
+ui_change_hair|Հերք
+ui_change_hair_color|Փոխել զգոյն հերաց
+ui_change_beard|Մօրուք
+ui_tutorial|Սկզբնական աւգնութիւն
+ui_tutorial_face_generator|Կոճակաւք եւ կարգաւորիչաւք փոխեցէ՛ք զդէմս ձերոյ կերպարի: Դարձուցանել զգլուխն՝ սեղմեցէ՛ք եւ շարժեցէ՛ք զմկանն:
+ui_restore|Վերականգնել
+ui_cancel|Չեղարկել
+ui_delete|Ջնջել
+ui_confirm_delete_game|Վստա՞հ էք, զի կամիք ջնջել զայս խաղ:
+ui_error_removing_file|Սխալ ի ջնջման ֆայլի...
+ui_day_datedisplay|Աւր %d (%d:%d%d)
+ui_reset_changes|Դառնալ յառաջինն
+ui_weapon_proficiencies|Հմտութիւնք զինուց
+ui_skills|Կարողութիւնք
+ui_attributes|Յատկութիւնք
+ui_enter_name_here|*Գրեցէ՛ք զանուն ձեր աստ*
+ui_edit_face|Փոխել զդէմս
+ui_statistics|Վիճակագրութիւն
+ui_next|Յաջորդ
+ui_prev|Նախորդ
+ui_learn|Ուսանել
+ui_question_saving_policy|Ո՞րպէս կամիք պահպանել զխաղն?
+ui_saving_policy_realistic|Իրական! Ելք առանց պահպանման արգելեալ է!
+ui_saving_policy_nonrealistic|Ելք առանց պահպանման թոյլատրեալ է:
+ui_tutorial_character_generation|Արդ գրեցէ՛ք զանուն ձեր եւ բաշխեցէ՛ք զմիաւորս յատկութեանց, կարողութեանց եւ հմտութեանց: Սեղմելով ի տարբեր տարրս՝ կարող էք գիտել, թէ որպէս նոքա ազդեն ի կերպարն:
+ui_str|ՈՅԺ
+ui_agi|ՃԱՐՊ.
+ui_int|ԻՄԱՍՏ.
+ui_cha|ՇՆՈՐՀ
+ui_at_learning_limit|(Ի սահմանի ուսման)
+ui_not_enough_skill_points_to_learn|(Չիք բաւական միաւորք կարողութեան վասն ուսման)
+ui_strength|ոյժ
+ui_agility|ճարպկութիւն
+ui_intelligence|իմաստութիւն
+ui_charisma|շնորհք
+ui_not_enough_attributetype_to_learn_this_skill|(Չիք բաւական %s վասն ուսանելոյ զայս կարողութիւն)
+ui_explanation_one_handed_weapon|Պարունակէ զգործածութիւն միաձեռնի սրոց, տապարաց եւ այլոց զինուց.
+ui_explanation_two_handed_weapon|Պարունակէ զգործածութիւն երկձեռնի սրոց, մեծ տապարաց եւ մուրճաց.
+ui_explanation_polearm|Պարունակէ զգործածութիւն նիզակաց, տէգաց եւ գաւազանաց.
+ui_explanation_archery|Պարունակէ զգործածութիւն աղեղաց.
+ui_explanation_crossbow|Պարունակէ զգործածութիւն աղեղնաց լարովի (արբալետաց).
+ui_explanation_throwing|Պարունակէ զգործածութիւն նետողական զինուց, որպէս ջիարդք, քարինք եւ այլն.
+ui_explanation_firearms|Պարունակէ զգործածութիւն հրազէնից.
+ui_explanation_strength|Ոյժ: Իւրաքանչիւր երկու միաւոր յաւելու +1 յառողջութիւն: Այս կարողութիւնք ոչ կարեն բարձրանալ առաւել քան 1/3 մասն ոյժի: երկաթէ մարմին, հզօր հարուած, հզօր նետում.
+ui_explanation_agility|Ճարպկութիւն: Իւրաքանչիւր միաւոր տայ հինգ միաւոր հմտութեան եւ արագացնէ զզէնս %0.5-աւ: Այս կարողութիւնք ոչ կարեն բարձրանալ առաւել քան 1/3 մասն ճարպկութեան: վահան, ատլետիզմ, զինագործութիւն, հեծելութիւն.
+ui_explanation_intelligence|Իմաստութիւն: Իւրաքանչիւր միաւոր տայ յաւելեալ միաւոր կարողութեան: Այս կարողութիւնք ոչ կարեն բարձրանալ առաւել քան 1/3 մասն իմաստութեան: մարզում, հետախուզութիւն, մարտավարութիւն, բժշկութիւն.
+ui_explanation_charisma|Շնորհք: Իւրաքանչիւր միաւոր յաւելու +1 ի թիւ զօրաց: Այս կարողութիւնք ոչ կարեն բարձրանալ առաւել քան 1/3 մասն շնորհի: առաջնորդութիւն, գերեվարութիւն, առեւտուր.
+ui_level|Աստիճան: %d
+ui_xp|Փորձառութիւն: %d
+ui_next_level_at|Յաջորդ աստիճան: %d
+ui_health_player|Առողջութիւն: %d/%d
+ui_health|Առողջութիւն: %d
+ui_attribute_points|Միաւորք յատկութեան: %d
+ui_skill_points|Միաւորք կարողութեան: %d
+ui_weapon_points|Միաւորք հմտութեան զինուց: %d
+ui_mission_losses_none| ոչինչ.
+ui_mission_losses_wounded|վիրաւորք :
+ui_mission_losses_killed|սպանեալք :
+ui_party_losses|%s : %d վիրաւոր --- %d սպանեալ (%d-ից).
+ui_casualties_sustained|Կորուստք թշնամւոյ:
+ui_advantage_change|Փոփոխութիւն առաւելութեան = %c%d
+ui_overall_battle_casualties|Ընդհանուր կորուստք մարտի:
+ui_advantage_outnumbered| Դուք էք յոյժ նուազ թուով.
+ui_advantage_major_disadvantage| Ունիք մեծ անաւգնութիւն.
+ui_advantage_slight_disadvantage| Ունիք սակաւ անաւգնութիւն.
+ui_advantage_balanced| Դրութիւնն է հաւասարակշռեալ.
+ui_advantage_fair_advantage| Մերձ էք յաղթանակի.
+ui_advantage_greatly_favored| Դուք էք առաւել թուով.
+ui_tactical_advantage|Մարտավարական առաւելութիւն: %d (%s)
+ui_order_group|Հրամայեա՛ գնդին:
+ui_question_save_changes|Դուք փոփոխեցէք զտարրս: Կամի՞ք պահպանել զփոփոխութիւնսն:
+ui_yes_save|Այո՛, պահպանել
+ui_no_discard_changes|Ո՛չ, ջնջել զփոփոխութիւնսն
+ui_everyone_control|Ամենեքին!
+ui_everyone_around_control|Մերձակայ զինուորք!
+ui_others_control|Այլք!
+ui_question_give_up_fight|Կամի՞ք լքանել զմարտն:
+ui_give_up|Լքանել
+ui_keep_fighting|Շարունակել զմարտն
+ui_question_leave_area|Լքանել զտեղին
+ui_cant_retreat_there_are_enemies_nearby|Ոչ կարէք նահանջել: Թշնամիք են մերձ!
+ui_question_retreat_battle|Կամի՞ք նահանջել ի մարտէն:
+ui_retreated_battle|%s փախեաւ ի մարտադաշտէն:
+ui_retreated_battle|%s փախեաւ ի մարտադաշտէն:
+ui_retreat|Նահանջել
+ui_talk|Խօսել
+ui_duel|Մենամարտել
+ui_mount|Հեծնուլ
+ui_riding_skill_not_adequate_to_mount|(Հմտութիւն հեծելութեան ոչ է բաւական)
+ui_dismount|Իջանել ի ձիոյ
+ui_exit|Ելք
+ui_door_to|Դուռն առ:
+ui_open|Բանալ
+ui_equip|Զինուիլ
+ui_baggage|Կարասի
+ui_access_inventory|Բանալ զշտեմարանն
+ui_chest|Արկղ
+ui_passage|Անցք
+ui_go|Երթալ
+ui_retreat_battle|Նահանջել ի մարտէ
+ui_leave_area|Լքանել զտեղին
+ui_reports|Հաշուետուութիւնք
+ui_camp|Բանակատեղի
+ui_terrain|Տեղանք
+ui_quests|Նոթք
+ui_inventory|Շտեմարան
+ui_character|Կերպար
+ui_party|Գունդ
+ui_paused|Դադար
+ui_click_left_button_to_cancel_wait|Ի սպասման... (սեղմեցէ՛ք ձախ կոճակն վասն ելից)
+ui_midnight|Կէս գիշեր
+ui_late_night|Գիշեր
+ui_dawn|Շաֆակ (Արշալոյս)
+ui_early_morning|Առաւօտ վաղ
+ui_morning|Առաւօտ
+ui_noon|Միջօրէ
+ui_afternoon|Յետմիջօրէ
+ui_late_afternoon|Երեկոյ
+ui_dusk|Վերջալոյս
+ui_evening|Իրիկուն
+ui_midnight|Կէս գիշեր
+ui_level_limit_reached|Աստիճանի սահմանն հասեալ է!
+ui_explanation_level_limit|Ողջոյն արկածախնդիր, At&Kիlիճ փորձնական տարբերակն սահմանափակեալ է մինչեւ 6-րդ աստիճան: Յուսամք, զի խաղն հաճոյ թուեցաւ ձեզ: Գնել զլիցենզիան յոյժ դիւրին է: Յետ գնման կարող էք շարունակել զխաղն այսր վայրէ: Արդ խաղն պահպանեսցի եւ փակեսցի:
+ui_time_limit_reached|Ժամանակի սահմանն հասեալ է!
+ui_explanation_time_limit|Ողջոյն արկածախնդիր, At&Kիlիճ փորձնական տարբերակն սահմանափակեալ է մինչեւ 30 խաղային աւուրս: Յուսամք, զի խաղն հաճոյ թուեցաւ ձեզ: Գնել զլիցենզիան յոյժ դիւրին է: Յետ գնման կարող էք շարունակել զխաղն այսր վայրէ: Արդ խաղն պահպանեսցի եւ փակեսցի.
+ui_target_lost|Թիրախն կորեաւ
+ui_waiting|Սպասէ.
+ui_travelling_to|Երթայ առ:
+ui_following|Հետեւի:
+ui_accompanying|Ուղեկցի:
+ui_running_from|Փախչի ի:
+ui_patrolling|Շրջի պահակութեամբ
+ui_patrolling_around|Շրջի պահակութեամբ շուրջ:
+ui_holding|Կայ հաստատուն
+ui_travelling|Ճանապարհորդէ
+ui_fighting_against|Մարտնչի ընդդէմ:
+ui_speed_equals|Արագութիւն: %s
+ui_defenders|Պաշտպանք
+ui_prisoners|Գերիք
+ui_1_hour|1 ժամ
+ui_n_hours|%d ժամք
+ui_between_hours|Ի մէջ ժամաց %d եւ %d
+ui_combatants|Մարտիկք
+ui_party_size|Մեծութիւն զօրախմբի
+ui_party_size_between|Մեծութիւն զօրախմբի: %d - %d
+ui_merchant|Վաճառական
+ui_return|Դարձ
+ui_no_cost|Առանց գնոյ
+ui_rename|Անուանափոխել
+ui_use|Գործածել
+ui_destroy|Կործանել
+ui_destructible_target|Կործանելի թիրախ
+ui_tutorial_inventory|Ուսուցումն գոյքի
+ui_head_armor|Զրահ գլխոյ
+ui_body_armor|Զրահ մարմնոյ
+ui_leg_armor|Զրահ սրնգից
+ui_encumbrance|Ծանրութիւն:
+ui_you_dont_have_value|Ոչ ունիս արծաթ բաւական (%s):
+ui_merchant_cant_afford_value|Վաճառական. ոչ բաւէ արծաթդ վասն %s:
+ui_merchant_pay_whatever|Վաճառական. վճարեա զինչ եւ է:
+ui_merchant_think_of_something_else|Վաճառական. խորհիր զայլ իմն:
+ui_dumping_value_items|Թափել զիրս: %s
+ui_dumping_value_item|Թափել զիրս: %s
+ui_question_slaughter_food_and_eat|Հարց: Մորթել զ%s եւ ուտել:
+ui_money_value|Արծաթ: %s
+ui_dump|Թափել
+ui_outfit|Հանդերձք
+ui_arms|Զէնք
+ui_horse|Ձի
+ui_food|Կերակուր
+ui_reclaim_your_sold_goods|Պահանջեա զվաճառեալ ապրանս քո:
+ui_return_your_bought_goods|Յետ դարձուցէ՛ք զձեր գնեալ ապրանսն նախքան վաճառելն զայս!
+ui_polearm_no_shield|Նիզակ (առանց վահանի)
+ui_polearm|Նիզակ
+ui_two_handed|Երկձեռնի
+ui_two_handed_one_handed|Երկձեռնի/Միաձեռնի
+ui_one_handed|Միաձեռնի
+ui_return_price|Գին վերադարձի: %d
+ui_sell_price|Գին վաճառման: %d
+ui_reclaim_price|Գին յետ գնման: %d
+ui_buying_price|Գին գնման: %d
+ui_default_item|Սովորական իր
+ui_buying_price_free|Գին: Ձրի
+ui_weight|Ծանրութիւն: %2.1f
+ui_plus_value_to_head_armor|+%d ի զրահ գլխոյ
+ui_plus_value_to_body_armor|+%d ի զրահ մարմնոյ
+ui_plus_value_to_leg_armor|+%d ի զրահ սրունից
+ui_swing|Հարուած շրջանաձեւ: %d%s
+ui_damage|Վնաս: %d%s
+ui_thrust|Խոցում: %d%s
+ui_accuracy|Դիպուկութիւն: %d
+ui_speed_rating|Արագութիւն: %d
+ui_value_to_damage|Վնաս առ %c%d
+ui_value_to_morale|+%1.1f ի բարոյականութիւն գնդի
+ui_resistance|Դիմադրութիւն: %d
+ui_size|Չափ: %d
+ui_weapon_reach|Հասողութիւն զինու: %d
+ui_armor|Զրահ: %d
+ui_speed|Արագութիւն: %d
+ui_maneuver|Շարժունակութիւն: %d
+ui_charge|Յարձակում: %d
+ui_hit_points|Առողջութիւն: %d/%d
+ui_requires_value_difficulty|Պահանջէ զ%s: %d
+ui_bonus_against_shields|Յաւելում ընդդէմ վահանաց
+ui_cant_be_used_to_block|Ոչ կարէ գործածիլ վասն պաշտպանութեան (բլոկի)
+ui_troop_cant_use_item|%s: ԵՍ ՈՉ ԿԱՐԵՄ ԳՈՐԾԱԾԵԼ ԶԱՅՍ!!!!!
+ui_notification_riding_skill_not_enough|Չունիք բաւական հեծելութիւն վասն հեծնուլոյ զայս ձի:
+ui_notification_requirements_not_met|Չունիք բաւական հմտութիւն վասն գործածելոյ զայս զէն:
+ui_notification_payment_value|%s վճարեսցի:
+ui_notification_payment_receive_value|%s ընկալցի:
+ui_one_handed_weapons|Միաձեռնի զէնք
+ui_two_handed_weapons|Երկձեռնի զէնք
+ui_polearms|Նիզակաւոր զէնք
+ui_archery|Աղեղնաձգութիւն
+ui_crossbows|Աղեղնադրութիւն (արբալետք)
+ui_throwing|Նետողական զէնք
+ui_firearms|Հրազէնք
+ui_reset|Դառնալ յառաջինն
+ui_release_one|Թողուլ զմի
+ui_move_up|Վեր
+ui_move_down|Վար
+ui_upgrade_one|Բարձրացնել զմի
+ui_party_skills|Կարողութիւնք գնդի:
+ui_morale|Բարոյականութիւն: %s
+ui_terrible|Յոյժ վատ
+ui_very_low|Ցածր
+ui_low|Ցածր
+ui_below_average|Նուազ քան զմիջինն
+ui_average|Միջին
+ui_above_average|Առաւել քան զմիջինն
+ui_high|Բարձր
+ui_very_high|Յոյժ բարձր
+ui_excellent|Սքանչելի
+ui_starving|Սովամահ լինի! %d%%
+ui_weekly_cost_value|Շաբաթական վճարք: %s
+ui_company|Գունդ: %d / %d
+ui_prisoners_equal_value|Գերք: %d / %d
+ui_choose_prisoners|Ընտրել զգերիսն
+ui_choose_companions|Ընտրել զայրսն
+ui_rescued_prisoners|Ազատեալ գերք
+ui_captured_enemies|Ըմբռնեալ թշնամիք
+ui_disband|Արձակել
+ui_take_prisoner|Գերեվարել
+ui_take_back|Յետ առնուլ
+ui_give|Տալ
+ui_take|Առնուլ
+ui_sell|Վաճառել
+ui_hire|Վարձել
+ui_notification_cant_hire|(Ոչ կարէ վարձել: չիք բաւական դրամ)
+ui_uncapture|Ազատել
+ui_capture|Գերել
+ui_party_capcity_reached|(Գունդն լի է)
+ui_all|Ամենայն
+ui_joining_cost_weekly_wage|Գին մտանելոյ: %d, Շաբաթական վճար: %d
+ui_weekly_wage|Շաբաթական վճար: %d դահեկան
+ui_price|Գին: %d
+ui_number_ready_to_upgrade|%d այրք պատրաստ են բարձրացման:
+ui_upgrade_to_value|Բարձրացնել առ %s (%dդ)
+ui_notification_no_slot_for_upgrade|Չիք տեղի վասն բարձրացնելոյ զ%s!
+ui_shield_broken|Վահանն փշրեցաւ:
+ui_shield_cracked|Վահանն ճաքեցաւ:
+ui_shield_deformed|Վահանն այլակերպեցաւ:
+ui_you_hit_a_friendly_troop|Դու հարեր զբարեկամ զինուոր!
+ui_hit_shield_on_back|Հարուած ի վահանն թիկանց!
+ui_delivered_couched_lance_damage|Դու հասուցեր հարուած նիզակաւ ի ձիոյ վերայ!
+ui_received_couched_lance_damage|Դու ընկալար հարուած նիզակաւ ի ձիոյ վերայ!
+ui_speed_bonus_plus|Յաւելում արագութեան: +%d%%
+ui_speed_bonus|Յաւելում արագութեան: %d%%
+ui_cant_reload_this_weapon_on_horseback|Այս զէն ոչ կարէ լիցքաւորիլ ի ձիոյ վերայ:
+ui_no_more_bolts|Աղեղնադրի նետք (բոլտք) հատան...
+ui_you_are_not_carrying_any_bolts|Դուք ոչ ունիք աղեղնադրի նետս:
+ui_no_more_arrows|Նետք հատան...
+ui_you_are_not_carrying_any_arrows|Դուք ոչ ունիք նետս:
+ui_head_shot|Հարուած ի գլուխն!
+ui_delivered_number_damage|%d վնաս հասուցեալ:
+ui_delivered_number_damage_to_horse|Ատին %d վնաս հասուցեալ:
+ui_horse_charged_for_number_damage|Ձին հարուածեաց եւ %d վնաս եհաս:
+ui_received_number_damage|%d վնաս ընկալեալ:
+ui_horse_received_number_damage|Ձին %d վնաս ընկալաւ:
+ui_value_killed_teammate|%s սպան զընկեր իւր!
+ui_horse_fell_dead|Ձին մեռաւ...
+ui_horse_crippled|Ձին հաշմանդամեցաւ...
+ui_shot_difficulty|Դժուարութիւն հարուածոյ: %2.1f
+ui_you_have_improved_your_proficiency_in_value_to_number|Ձեր հմտութիւնն ի %s բարձրացաւ առ %d աստիճան:
+ui_your_proficiency_in_value_has_improved_by_number_to_number|Ձեր հմտութիւնն ի %s յաւելաւ +%d-աւ եւ եղեւ %d:
+ui_value_killed_by_value|%s սպանաւ ի %s-է:
+ui_value_fell_dead|%s մեռաւ:
+ui_value_knocked_unconscious_by_value|%s նուաղեցաւ ի %s-է:
+ui_value_fell_unconscious|%s նուաղեցաւ:
+ui_troop_routed|%s նահանջեցաւ.
+ui_troop_panicked|%s զարհուրեցաւ:
+ui_troop_fled|%s փախեաւ ի մարտէն:
+ui_you_got_number_experience|Ընկալար %d փորձառութիւն:
+ui_you_have_advanced_to_level_number|Բարձրացար առ %d աստիճան:
+ui_value_has_advanced_to_level_number|%s բարձրացաւ առ %d աստիճան:
+ui_you_got_value|Ընկալար զ%s:
+ui_new_quest_taken|Նոր յանձնարարութիւն ընկալեալ: %s.
+ui_quest_completed_value|Յանձնարարութիւնն կատարեցաւ: %s.
+ui_quest_succeeded_value|Յանձնարարութիւնն յաջողեցաւ: %s.
+ui_quest_failed_value|Յանձնարարութիւնն ձախողեցաւ: %s.
+ui_quest_concluded_value|Յանձնարարութիւնն աւարտեցաւ: %s.
+ui_quest_cancelled_value|Յանձնարարութիւնն չեղարկեցաւ: %s.
+ui_lost_value| (%s կորեաւ)
+ui_items_lost| (Իրք կորուսեալք:
+ui_party_has_nothing_to_eat|Գունդն ոչ ունի ուտեստ ինչ!
+ui_days_training_is_complete|Այսօրուայ մարզումն աւարտեցաւ...
+ui_total_experience_gained_through_training_number|Ընդհանուր փորձառութիւն ի մարզմանէ: %d
+ui_some_soldiers_are_ready_to_upgrade|Ոմանք ի զինուորաց պատրաստ են բարձրացման:
+ui_number_of_companions_exceeds_leadership_limit| Թիւ մարդկանց անցանէ զսահմանն առաջնորդութեան:
+ui_number_of_prisoners_exceeds_prisoner_management_limit| Թիւ գերեաց անցանէ զսահմանն գերեվարութեան:
+ui_party_morale_is_low| Բարոյականութիւն գնդի է ցածր!
+ui_and_one_space| եւ
+ui_has_deserted_the_party| լքեաց զգունդն:
+ui_have_deserted_the_party| լքեցին զգունդն:
+ui_weekly_report|Շաբաթական հաշուետուութիւն
+ui_shared_number_experience_within_party|%d փորձառութիւն բաշխեցաւ ի մէջ գնդի:
+ui_got_item_value|Իրն ընկալեալ: %s.
+ui_game_saved_successfully|Խաղն պահպանեցաւ յաջողութեամբ:
+ui_autosaving|Ինքնապահպանում...
+ui_quick_saving|Արագ պահպանում...
+ui_cant_quick_save|Ոչ կարէ պահպանել ի մարտի ժամանակի...
+ui_screenshot_taken_to_value|Պատկեր էկրանի պահպանեցաւ ի %s ֆայլ:
+ui_screenshot_failed|Ոչ կարեմ առնուլ զպատկեր էկրանի:
+ui_value_joined_your_party|%s յարեցաւ առ ձեր գունդ:
+ui_value_joined_party_as_prisoner|%s յարեցաւ առ գունդ որպէս գերի:
+ui_value_has_joined_party|%s յարեցաւ առ գունդ:
+ui_value_has_been_taken_prisoner|%s գերեվարեցաւ:
+ui_value_left_the_party|%s լքեաց զգունդն:
+ui_number_values_left_the_party|%d %s լքեցին զգունդն:
+ui_number_value_left_the_party|%d %s լքեաց զգունդն:
+ui_your_relations_with_value_has_improved_from_number_to_number|Ձեր յարաբերութիւնքն ընդ %s բարձրացան ի %d-է առ %d:
+ui_your_relations_with_value_has_deteriorated_from_number_to_number|Ձեր յարաբերութիւնքն ընդ %s նուաղեցան ի %d-է առ %d:
+ui_you_lost_value|Կորուսեր զ%s:
+ui_lost_item_value|Իրն կորեաւ: %s.
+ui_got_number_value|Ընկալար %d %s:
+ui_lost_number_value|Կորուսեր %d %s:
+ui_set_default_keys|Դնել զստեղնս սկզբնականս
+ui_undo_changes|Յետս կոչել զփոփոխութիւնս
+ui_press_a_key|Սեղմեա զստեղն
+ui_return_to_game|Դառնալ ի խաղ
+ui_options|Ընտրանիք
+ui_save_and_exit|Պահել եւ ելանել
+ui_save|Պահպանել
+ui_save_as|Պահպանել որպէս
+ui_quit_without_saving|Ելք առանց պահպանման
+ui_empty_slot|Դատարկ վայր
+ui_game_saved|Խաղն պահպանեցաւ...
+ui_confirm_overwrite| %s-ն վերագրեսցի: Վստա՞հ էք:
+ui_dynamic_lighting|Շարժուն լուսաւորութիւն
+ui_character_shadows|Ստուերք կերպարի:
+ui_grass_density|Խտութիւն խոտոյ:
+ui_environment_shadows|Ստուերք շրջակայից
+ui_realistic_shadows_on_plants|Իրական ստուերք ի վերայ բուսոց:
+ui_particle_systems|Համակարգք մասնիկաց:
+ui_gamma|Գամմա:
+ui_character_detail|Մանրամասնութիւնք կերպարի:
+ui_character_shadow_detail|Մանրամասնութիւնք ստուերաց կերպարի:
+ui_blood_stains|Հետք արեան:
+ui_on|Միացեալ
+ui_off|Անջատեալ
+ui_near_player_only|Միայն մերձ առ խաղացողն
+ui_default|Սովորական
+ui_3d_grass|Եռաչափ խոտ:
+ui_number_of_ragdolls|Թիւ մարմնոց:
+ui_number_of_corpses|Թիւ դիակաց:
+ui_unlimited|Անսահման
+ui_anisotropic_filtering|Անիզոտրոպ զտում:
+ui_fast_water_reflection|Արագ անդրադարձ ջրոյ
+ui_maximum_framerate|Առաւելագոյն թիւ կադրաց:
+ui_show_framerate|Ցուցանել զչափ շրջանակաց
+ui_estimated_performance|Կանխատեսեալ արդիւնաւետութիւն: %d%%
+ui_change_graphics_settings_explanation|Ոմանք փոփոխութիւնք ազդեսցեն, յորժամ մտջիք ի նոր տեղի:
+ui_start_tutorial|Ուսուցում սկզբնական
+ui_start_a_new_game|Սկսանել նոր խաղ
+ui_restore_a_saved_game|Պահպանեալ խաղք
+ui_exit_to_windows|Ելք
+ui_credits|Հեղինակք
+ui_version_value|տարբերակ %s
+ui_active_quests|Գործուն յանձնարարութիւնք
+ui_finished_quests|Աւարտեալ յանձնարարութիւնք
+ui_given_on_date|Տուեալ յամսեանն: %s
+ui_days_since_given|Աւուրք յետ տալոյն: %d
+ui_quest_progression_number|Ընթացք յանձնարարութեան: %d%%
+ui_too_many_quests|Յոյժ բազում են յանձնարարութիւնքն
+ui_ok|Բարւոք է
+ui_move_forward|Յառաջ
+ui_move_backward|Յետս
+ui_move_left|Ի ձախ
+ui_move_right|Յաջ
+ui_action|Գործողութիւն
+ui_jump|Ոստնուլ
+ui_attack|Յարձակուլ
+ui_parry_then_attack|Պաշտպանուլ եւ յարձակուլ
+ui_defend|Պաշտպանիլ
+ui_kick|Հարուած ոտամբ
+ui_equip_weapon_1|Զինուիլ 1-ին իրաւ
+ui_equip_weapon_2|Զինուիլ 2-րդ իրաւ
+ui_equip_weapon_3|Զինուիլ 3-րդ իրաւ
+ui_equip_weapon_4|Զինուիլ 4-րդ իրաւ
+ui_equip_next_weapon|Զինուիլ յաջորդ զինու
+ui_equip_next_shield|Զինուիլ յաջորդ վահանաւ
+ui_sheath_weapon|Դնել զզէնն ի պատեան
+ui_character_window|Պատուհան կերպարի
+ui_inventory_window|Պատուհան շտեմարանի
+ui_party_window|Պատուհան գնդի
+ui_quests_window|Պատուհան յանձնարարութեանց
+ui_game_log_window|Պատուհան հաշուեմատեանի
+ui_leave_location_retreat|Լքանել զտեղին/Նահանջել
+ui_zoom|Մեծացուցանել/Փոքրացուցանել զտեսողութիւնն
+ui_view_outfit|Տեսանել զհանդերձանս
+ui_toggle_first_person_view|Տեսողութիւն յառաջին դիմաց
+ui_view_orders|Տեսանել զհրամանս
+ui_quick_save|Արագ պահպանում
+ui_no_key_assigned|Չիք կոճակ նշանակեալ
+ui_new_enemies_have_arrived|Նոր ուժք թշնամւոյ եկին:
+ui_reinforcements_have_arrived|Աւժանդակ ուժք հասին:
+ui_report_casualties|Հաշուետուութիւն կորստոց
+ui_report_experience|Հաշուետուութիւն փորձառութեան
+ui_current_level_value|Աստիճան: %d
+ui_base_attribute_value|Յատկութիւն: %s
+ui_battle_controls|Կառավարում մարտի
+ui_map_controls|Կառավարում քարտէսի
+ui_general_controls|Կառավարում ընդհանուր
+ui_zoom_in|Մեծացուցանել
+ui_zoom_out|Փոքրացուցանել
+ui_wait|Սպասել
+ui_take_screenshot|Առնուլ զպատկեր էկրանի
+ui_randomize|Պատահական
+ui_hint|Ակնարկ (Խորհուրդ)
+ui_press_left_mouse_button_to_continue|Սեղմեցէ՛ք զձախ կոճակն մկան վասն շարունակութեան...
+ui_loot|Յափշտակել
+ui_chest|Արկղ
+ui_cut_short|կ
+ui_pierce_short|դ
+ui_blunt_short|բ
+ui_battle|Մարտ
+ui_siege|Պաշարում
+ui_troops|Գունդք:
+ui_loading_module_info_file|Բեռնումն տեղեկութեանց մոդի...
+ui_processing_ini_file|Մշակումն INI ֆայլի...
+ui_loading_music|Բեռնումն երաժշտութեան...
+ui_loading_data|Փոխանցումն տուեալաց...
+ui_loading_setting_data|Բեռնումն կարգաւորութեանց...
+ui_loading_textures|Բեռնումն կառուցուածոց...
+ui_finished|Աւարտեցաւ:
+ui_creating_game|Ստեղծումն խաղի...
+ui_loading_savegame_file|Բեռնումն պահպանեալ խաղի...
+ui_loading_map_file|Բեռնումն քարտէսի...
+ui_initializing_map|Կազմումն քարտէսի...
+ui_launching_game|Սկսումն խաղի...
+ui_capital_battle|ՄԱՐՏ:
+ui_capital_versus|--ԸՆԴԴԷՄ--
+ui_tracks|Հետք
+ui_battleground|Մարտադաշտ
+ui_order_1|Ընտրել 1-ին գունդն
+ui_order_2|Ընտրել 2-րդ գունդն
+ui_order_3|Ընտրել 3-րդ գունդն
+ui_order_4|Ընտրել 4-րդ գունդն
+ui_order_5|Ընտրել 5-րդ գունդն
+ui_order_6|Ընտրել 6-րդ գունդն
+ui_order_button_hold_this_position|Կալ յայսմ տեղւոջ
+ui_order_button_follow_me|Եկա՛յք զկնի իմ
+ui_order_button_charge|Յարձակում
+ui_order_button_stand_ground|Պահել զտեղին
+ui_order_button_retreat|Նահանջել
+ui_order_button_advance|Տասն քայլ յառաջ
+ui_order_button_fall_back|Տասն քայլ յետս
+ui_order_button_spread_out|Ցրուել
+ui_order_button_stand_closer|Կալ մերձ միմեանց
+ui_order_button_mount_horses|Հեծնուլ ի ձիս
+ui_order_button_dismount|Իջանել ի ձիոյ
+ui_order_button_hold_fire|Մի՛ արձակել զնետս
+ui_order_button_fire_at_will|Արձակումն նետից ըստ կամաց
+ui_order_button_use_blunt_weapons|Գործածել միայն զբութ զէնս
+ui_order_button_use_any_weapon|Գործածել զամենայն զէնս
+ui_order_button_movement_orders|Հրամանք շարժման
+ui_order_button_formation_orders|Հրամանք շարուածոյ
+ui_order_button_fire_orders|Հրամանք նետաձգութեան
+ui_follow_me_e_|%s, եկա՛յք զկնի իմ!
+ui_charge_e_|%s, յարձակո՜ւմ!!!
+ui_stand_ground_e_|%s, կացէ՛ք ի տեղւոջ ձերում!
+ui_retreat_e_|%s, նահանջեցէ՛ք!
+ui_mount_horses_e_|%s, հեծարո՛ւք ի ձիս!
+ui_dismount_e_|%s, իջէ՛ք ի ձիոյ!
+ui_advance_e_|%s, տասն քայլ յառաջ!
+ui_fall_back_e_|%s, տասն քայլ յետս!
+ui_stand_closer_e_|%s, կացէ՛ք մերձ միմեանց!
+ui_spread_out_e_|%s, ցրուեցարո՛ւք!
+ui_use_blunt_weapons_e_|%s, գործածեցէ՛ք զբութ զէնս!
+ui_use_any_weapon_e_|%s, գործածեցէ՛ք զամենայն զէնս!
+ui_hold_fire_e_|%s, դադարեցո՛ւ զնետաձգութիւնն!
+ui_fire_at_will_e_|%s, արձակեցէ՛ք զնետս ըստ կամաց!
+ui_hold_this_position_e_|%s, կացէ՛ք յայսմ տեղւոջ!
+ui_infantry|Հետեւակք
+ui_archers|Աղեղնաւորք
+ui_cavalry|Հեծելազօր
+ui_companions|Արբանեակք (Յոլորդք)
+ui_everyone_hear_me|Ամենեքին լուարո՛ւք ինձ!
+ui_everyone|Ամենեքին
+ui_everyone_around_me|Մերձակայ զինուորք
+ui_str_hear_me|%s, լուարո՛ւք ինձ!
+ui_str_and_str|%s եւ %s
+ui_str_comma_str|%s, %s
+ui_need_to_learn_prisoner_management|Վասն գերեվարութեան պարտ է ձեզ ուսանել զկարողութիւն գերեվարութեան:
+ui_game_log|Հաշուեմատեան խաղի
+ui_recent_messages|Վերջին պատգամք
+ui_custom_battle|Արագ մարտ
+ui_player|Խաղացող
+ui_value_denars|%d դահեկան
+ui_back|Յետս
+ui_forward|Յառաջ
+ui_display_on_map|Ցուցանել ի քարտէսի
+ui_info_pages|Հասկացութիւնք խաղի
+ui_troops2|Կերպարք
+ui_locations|Վայրք
+ui_click_button_to_view_note|Սեղմեցէ՛ք վասն տեղեկութեան:
+ui_this_page_contains_no_information|Այս էջ ոչ պարունակէ տեղեկութիւնս
+ui_other_pages_that_link_here|Այլ էջք, որք յարին աստ:
+ui_report_is_value_days_old| (Հաշուետուութիւնն է %d աւուրց հնութեան:)
+ui_report_is_current| (Հաշուետուութիւնն է արդիական)
+ui_button_party_member_healthy_total|%s (%d/%d)
+ui_button_party_member_total|%s (%d)
+ui_button_party_member_hero_percentage_wounded|%s (%d%% - վիրաւոր)
+ui_button_party_member_hero_percentage|%s (%d%%)
+ui_percentage_value|%d%%
+ui_full|Լի
+ui_quick|Արագ
+ui_none|Չիք
+ui_change|Փոխել
+ui_how_to_change|Ո՞րպէս փոխել?
+ui_change_directx_explanation|Կարող էք փոխել զDirectX տարբերակն ի կարգաւորութիւնս սկզբնական էկրանի:
+ui_dropping_picking_up| %s լքանի; %s առնուի:
+ui_dropping|%s լքանի:
+ui_picking_up| %s առնուի:
+ui_unable_to_take|Ոչ կարեմ առնուլ զայս:
+ui_age|Տարիք
+ui_cannot_be_used_on_horseback|Ոչ կարէ գործածիլ ի ձիոյ վերայ:
+ui_enable_vertex_shaders2|Կերպ գծագրութեան:
+ui_screen_size2|Որոշակիութիւն էկրանի:
+ui_use_desktop_resolution2|Գործածել զորոշակիութիւն աշխատասեղանի
+ui_shadow_quality2|Որակ ստուերաց:
+ui_m_low2|Ցածր
+ui_m_high2|Բարձր
+ui_m_ultra_high2|Յոյժ բարձր
+ui_off2|Անջատեալ
+ui_group_header|Դաս գնդի
+ui_group_rename|Վերանուանել զգունդն
+ui_group_1|Հետեւակք
+ui_group_2|Աղեղնաւորք
+ui_group_3|Հեծելազօր
+ui_group_4|Անանուն 1
+ui_group_5|Անանուն 2
+ui_group_6|Անանուն 3
+ui_group_7|Անանուն 4
+ui_group_8|Անանուն 5
+ui_group_9|Անանուն 6
+ui_group_rename|Վերանուանել զգունդն
+ui_group_close|Փակել
+ui_party_b_group_information|%s, պատկանի %s գնդին
+ui_thrown_or_s|Նետողական/%s
+ui_ranged_damage|Հեռաձիգ: %d%s
+ui_overall_quality|Ընդհանուր որակ
+ui_shader_quality|Որակ շեյդերաց:
+ui_flora_lod_detail|Մանրամասնութիւնք ծառոց:
+ui_flora_degrade_distance|Հեռաւորութիւն նուազման ծառոց:
+ui_antialiasing|Հարթեցում եզերաց:
+ui_use_depth_effects|Գործածել զազդեցութիւն խորութեան
+ui_hdr_mode|HDR կերպ:
+ui_autoexpore|Ինքնաբերական պայծառութիւն
+ui_choose_profile|Ընտրել զպատկեր (պրոֆիլ)
+ui_create|Ստեղծել
+ui_edit|Խմբագրել
+ui_join_game|Մտանել ի խաղ
+ui_host_game|Սկսանել զխաղ
+ui_custom|Յատուկ
+ui_medium|Միջին
+ui_male|Արական
+ui_female|Իգական
+ui_gender|Ընտրութիւն սեռի:
+ui_edit_profile|Խմբագրել զպատկերն
+ui_new_profile|Նոր դիմագիծ
+ui_enter_username|Գրեցէ՛ք զանուն օգտատիրոջ:
+ui_invalid_username|Անունն կարէ պարունակել միայն զտառս, զթիւս եւ զնշանս _ - [ ] * ~.
+ui_confirmation|Վստա՞հ էք:
+ui_multiplayer|Խաղ բազմամարդի
+ui_server_name|Սերվեր
+ui_module_name|Մոդուլ
+ui_game_type|Տեսակ խաղի
+ui_map_name|Քարտէս
+ui_ping|Պինգ
+ui_dedicated|Յատկացեալ
+ui_number_of_players|Խաղացողք
+ui_password_protected|Գաղտնաբառ
+ui_connect|Միանալ
+ui_local_area_network|Տեղական ցանց
+ui_internet|Համացանց
+ui_favorites|Ընտրեալք
+ui_source|Աղբիւր:
+ui_server_password|Գաղտնաբառ սերվերի:
+ui_refresh|Նորոգել
+ui_start_search|Սկսանել զխնդիր
+ui_add_to_favorites|Յաւելուլ ի ընտրեալս
+ui_remove_from_favorites|Հանել ի ընտրելոց
+ui_use_speedtree|Գործածել Speedtree
+ui_use_instancing|Գործածել ինստանսինգ:
+ui_error|Սխալ
+ui_error_server_full|Սերվերն լի է:
+ui_error_server_full_for_non_private|Չիք տեղի ի սերվերի վասն այնոց, որք ոչ ունին զգաղտնաբառ:
+ui_error_server_password_incorrect|Սխալ գաղտնաբառ:
+ui_error_incorrect_serial|Սխալ սերիական թիւ:
+ui_error_incorrect_authorization_key|Սխալ բանալի մտանելոյ:
+ui_error_banned_from_server|Դուք արտաքսեցայք ի սերվերէն:
+ui_error_username_taken|Անուն պատկերի ձերոյ արդէն գործածի յայլմէ խաղացողէ:
+ui_error_authentication_failed|Մուտքն ձախողեցաւ:
+ui_unable_to_connect_to_server|Ոչ կարեմ միանալ առ սերվերն:
+ui_connection_to_server_is_lost|Կապն ընդ սերվերի կորեաւ:
+ui_kicked_from_server|Դուք արտաքսեցայք ի սերվերէն:
+ui_switch_to_module_question|Այս սերվեր գործէ յայլմէ մոդուլէ, քան զայն զոր դուք գործածէք: Կամի՞ք փոխել զայն:
+ui_download_module_question|Այս սերվեր գործէ ի մոդուլէ, որ ոչ է ձեզ մօտ: Կամի՞ք այցելել զէջ ներբեռնման:
+ui_download_mb_new_version_question|Այս սերվեր ունի զնորագոյն տարբերակ (%d.%d%d%d, ձերն է: %d.%d%d%d): Կամի՞ք այցելել զէջ TaleWorlds:
+ui_download_mb_old_version_question|Այս սերվեր ունի զհնագոյն տարբերակ (%d.%d%d%d, ձերն է: %d.%d%d%d):
+ui_download_module_new_version_question|Այս սերվեր գործէ ի նորագոյն տարբերակէ մոդուլի (%d.%d%d%d, ձերն է %d.%d%d%d): Կամի՞ք այցելել զէջ ներբեռնման:
+ui_download_module_old_version_question|Այս սերվեր գործէ ի հնագոյն տարբերակէ մոդուլի (%d.%d%d%d, ձերն է %d.%d%d%d):
+ui_authenticating_with_steam|Մուտք ի Steam...
+ui_validating_serial_number|Ստուգումն սերիական թուոյ...
+ui_scanning_lan|Որոնումն ի տեղական ցանցի...
+ui_retrieving_servers|Ընդունումն ցուցակի սերվերաց...
+ui_shield_size2|Չափ: %dx%d
+ui_click_to_view_notes|Սեղմեցէ՛ք վասն տեսանելոյ զնոթսն
+ui_retrieving_server_infos|Ընդունումն տեղեկութեանց ի սերվերաց(%d)...
+ui_connecting_to_server|Միացումն առ սերվերն...
+ui_requesting_to_join_the_game|Հայց մտանելոյ ի խաղ...
+ui_loading|Բեռնումն...
+ui_group_value_control|Գունդ %d!
+ui_drop_weapon|Թողուլ զզէնն
+ui_multiplayer_message_all|Առաքել պատգամ ամենեցուն
+ui_multiplayer_message_team|Առաքել պատգամ գնդին
+ui_command_line|Տող հրամանաց
+ui_use_ranged_weapon_as_melee|Փոխել զկերպ զինու
+ui_send_message_all|Առաքել պատգամ ամենեցուն
+ui_send_message_team|Առաքել պատգամ գնդին
+ui_select|Ընտրել
+ui_context_menu|Մենիւ համատեքստի
+ui_round_starts_in_value_seconds|Շրջանն սկսանի յետ %d վայրկենաց...
+ui_watching_value|Յաջորդն %s
+ui_capital_spec|ԴԻՏ
+ui_capital_dead|ՄԵՌ
+ui_instancing_error1|Սխալ ի պատճենման մոդելաց (թիւ: %d, Սխալի կոդ: %d)
+ui_instancing_error2|Ոչ կարեմ դնել զպատճենեալ առարկայսն
+ui_by_keyboard|Գործածելով զկոճակս շարժման
+ui_combat_speed_slowest|Յոյժ դանդաղ
+ui_combat_speed_slower|Դանդաղ
+ui_combat_speed_normal|Բնական
+ui_combat_speed_faster|Արագ
+ui_combat_speed_fastest|Յոյժ արագ
+ui_module_newer_than_application|Խաղն նորագոյն է քան զկիրառութիւնն:
+ui_module_older_than_application|Խաղն հնագոյն է քան զկիրառութիւնն:
+ui_unbalanced|Անհաւասարակշիռ
+ui_can_crush_through_blocks|Կարող է խոցել զպաշտպանութիւնն
+ui_turn_camera_with_horse|Դարձուցանել զտեսախցիկն ընդ ձիոյ ի տեսողութեան յառաջին դիմաց:
+ui_widescreen_mode_on|Կերպ լայն էկրանի միացեալ
+ui_widescreen_mode_off|Կերպ լայն էկրանի անջատեալ
+ui_notification_cant_upgrade|(Ոչ կարէ բարձրացնել: չիք բաւական դրամ)
+ui_turn_never|Ոչ երբեք
+ui_turn_ranged_only|Միայն հեռաձիգք
+ui_turn_melee_only|Միայն սերողականք
+ui_turn_always|Հանապազ
+ui_general_options|Ընդհանուր կարգաւորութիւնք
+ui_vac_enabled|Valve Anti Cheat գործուն է
+ui_campaign_ai|Միտք արուեստական մարտավարութեան:
+ui_downloading_map|Ներբեռնումն քարտէսի (%d KB)
+ui_download_completed|Ներբեռնումն աւարտեցաւ:
+ui_server_filter|Զտիչ սերվերաց
+ui_has_players|Ունիցի զխաղացողս
+ui_is_not_full|Ոչ իցէ լի
+ui_is_password_free|Առանց գաղտնաբառի
+ui_native_only|Միայն Native
+ui_ping_limit|Սահման պինգի
+ui_filter_info|%d խաղք եւ %d խաղացողք զտեցան
+ui_is_version_compatible|Համատեղելի ընդ մոդուլի
+ui_ttnet_account|Հաշիւ TTNET
+ui_username|Անուն օգտատիրոջ:
+ui_password|Գաղտնաբառ:
+ui_error_incorrect_username_or_password|Սխալ անուն կամ գաղտնաբառ:
+ui_validating_account|Ստուգումն հաշուի...
+ui_plase_enter_your_serial_key|Գրեցէ՛ք զսերիական թիւ ձեր
+ui_texture_detail2|Մանրամասնութիւնք կառուցուածոյ:
+ui_antialiasing2|Հարթեցում եզերաց:
+ui_napoleonic_key_does_not_exist|Այս մոդն պահանջէ զNapoleonic Wars DLC վասն խաղալոյ!
+ui_delete_module_workshop|Վստա՞հ էք, զի կամիք ջնջել եւ չեղարկել զբաժանորդագրութիւնն այսր մոդի:
+ui_delete_module|Վստա՞հ էք, զի կամիք ջնջել զայս մոդ:
+ui_delete_native_module|Դուք ոչ կարէք ջնջել զNative:
+ui_incompatible_module|Այս սերվեր ոչ է համատեղելի ընդ ձերոյ մոդուլի.
+ui_view_distance|Հեռաւորութիւն տեսողութեան:
+ui_complex|Բարդ
+ui_very_slow|Յոյժ դանդաղ
+ui_tutorial_panel|Վահանակ ուսուցման
+ui_simple|Պարզ
+ui_combat_difficulty|Դժուարութիւն մարտի:
+ui_blood_multiplier|Բազմապատկիչ արեան:
+ui_looting_items|Յափշտակել զիրսն
+ui_merchant_doesnt_have_enough_money|(Վաճառականն ոչ ունի բաւական դրամ)
+ui_control_options|Ընտրանիք կառավարման
+ui_inventory_capacity_reached|(Շտեմարանն լի է)
+ui_selling_to|Վաճառել առ:
+ui_trading_with|Առեւտուր ընդ:
+ui_max_framerate|Առաւելագոյն յաճախութիւն կադրաց:
+ui_fast|Արագ
+ui_weapon_points_on_level_up|Միաւորք զինուց ի բարձրացման աստիճանի:
+ui_taking_items_from_chest|Առնուլ զիրսն յարկղէն
+ui_foliage_shadows|Ստուերք տերեւոց:
+ui_foliage_quality|Որակ տերեւոց:
+lockitver|ՄԻ՛ ՋՆՋԵՔ ԶԱՅՍ ՏՈՂ! 2665
+ui_shadow_quality|Որակ ստուերաց:
+ui_very_fast|Յոյժ արագ
+ui_ultra|Վերին
+ui_you_dont_have_enough_money|(Չիք ձեզ բաւական դրամ)
+ui_buying_cost_value|Գին գնման: %s
+ui_only_near|Միայն մերձակայ
+ui_texture_detail|Մանրամասնութիւնք կերպասի:
+ui_game_options|Ընտրանիք խաղի
+﻿ui_buying_from|Գնել ի:
+ui_discard_items|Ջնջել զիրսն
+ui_selling_value|Վաճառք: %s
+ui_transferring_goods|Փոխանցել զապրանսն
+ui_slow|Դանդաղ
+ui_audio_options|Ընտրանիք ձայնի
+ui_ragdoll_effects|Ազդեցութիւնք մարմնոյ:
+ui_create_profile|Ստեղծել զպատկեր
